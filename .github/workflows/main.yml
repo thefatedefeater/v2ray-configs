@@ -40,4 +40,4 @@ jobs:
         add: "."
         push: "https://github.com/thefatedefeater/v2ray-configs.git"
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: "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"
