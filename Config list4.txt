@@ -1,3 +1,7 @@
+trojan://8b47d63f-1f8e-4f8e-a1e8-ead3686e5da6@91.194.11.168:443?#🔒 TR-TCP-NA 🇨🇦 CA-91.194.11.168:443 📡 PING-064.03-MS
+trojan://f0c910c3-d157-48a6-815c-b12fed163f12@129.153.145.216:443?security=tls&sni=55arm.1365365.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-129.153.145.216:443 📡 PING-064.60-MS
+trojan://3076cba9-a60c-485a-8d8a-ba3dbbc4e585@138.124.184.173:443?#🔒 TR-TCP-NA 🇺🇸 US-138.124.184.173:443 📡 PING-068.02-MS
+trojan://eb7e85c8-d699-4d84-9a69-d44a1b5e2de9@139.177.198.138:443?security=tls&sni=can-a.speedyweb.xyz&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇨🇦 CA-139.177.198.138:443 📡 PING-068.69-MS
 trojan://71ab3866-4c8b-4a0b-a4bd-a64f110afe0b@172.105.25.249:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.25.249:443 📡 PING-069.40-MS
 trojan://telegram-id-directvpn@3.97.29.230:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-3.97.29.230:22222 📡 PING-070.27-MS
 trojan://telegram-id-directvpn@3.97.211.216:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#🔒 TR-TCP-NA 🇨🇦 CA-3.97.211.216:22222 📡 PING-073.30-MS
@@ -494,7 +498,3 @@ vless://4c1e91a2-feb7-4734-b836-b8d68c639cfe@176.65.242.93:1116?security=none&ty
 vless://3a76aaa3-3998-4103-b8c7-5a03ea49901e@185.126.15.60:8097?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.15.60:8097 📡 PING-229.89-MS
 vless://741fbb11-80d9-4684-a2a6-c558ccc4a84c@85.133.137.55:4002?security=none&type=ws&host=85.133.137.55#🔒 VL-WS-NONE 🇮🇷 IR-85.133.137.55:4002 📡 PING-230.03-MS
 vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@31.7.70.89:8478?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.89:8478 📡 PING-230.54-MS
-vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&type=ws&host=anten.ir&path=%5C#🔒 VL-WS-NONE 🇮🇷 IR-185.142.157.224:2053 📡 PING-233.11-MS
-vless://95d80706-6c96-4fbb-a533-02de461d51aa@80.71.149.223:8001?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-80.71.149.223:8001 📡 PING-233.51-MS
-vless://74f92f29-260a-4332-8121-8a94acaba18d@212.80.18.147:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.147:443 📡 PING-233.56-MS
-vless://9ffbbd7d-c985-4ba0-adc7-f5dbf2baa364@62.60.160.52:23441?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇭🇰 HK-62.60.160.52:23441 📡 PING-233.74-MS

@@ -1,3 +1,7 @@
+vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&type=ws&host=anten.ir&path=%5C#🔒 VL-WS-NONE 🇮🇷 IR-185.142.157.224:2053 📡 PING-233.11-MS
+vless://95d80706-6c96-4fbb-a533-02de461d51aa@80.71.149.223:8001?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-80.71.149.223:8001 📡 PING-233.51-MS
+vless://74f92f29-260a-4332-8121-8a94acaba18d@212.80.18.147:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.147:443 📡 PING-233.56-MS
+vless://9ffbbd7d-c985-4ba0-adc7-f5dbf2baa364@62.60.160.52:23441?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇭🇰 HK-62.60.160.52:23441 📡 PING-233.74-MS
 vless://83448fe3-46d2-4053-e857-48897fec8918@62.60.160.131:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇭🇰 HK-62.60.160.131:443 📡 PING-234.21-MS
 vless://83d63ef0-34c5-45ab-ba31-ee5ddef04b98@80.71.149.223:8000?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-80.71.149.223:8000 📡 PING-235.02-MS
 vless://d126a883-8a6a-4527-9781-d6ac251ff7a8@95.38.202.147:2052?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.202.147:2052 📡 PING-236.00-MS
@@ -494,7 +498,3 @@ vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.61.8:8880?type=ws&host=xn--7
 vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@104.16.235.30:443?security=tls&sni=srv12.xyzquant.cloud&type=ws&host=srv12.xyzquant.cloud&path=%2F6eenmFpORi4fyf8bW&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.235.30:443 📡 PING-016.12-MS
 vless://4db8fe35-3ee2-4e29-a849-f944de8e1012@188.114.97.42:443?security=tls&sni=nl1-vless.sshmax.xyz&type=ws&host=nl1-vless.sshmax.xyz&path=%2Fvless%C2%A0+@hopev2ray+@hopev2ray+@hopev2ray+@hopev2ray+@hopev2ray+@hopev2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.42:443 📡 PING-016.12-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.23.68:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.23.68:80 📡 PING-016.12-MS
-vless://36ba5d3a-d2c7-4c72-9b71-7e908bed8b20@190.93.247.155:2053?security=tls&sni=All4.savagev2ray.site&type=ws&host=all4.savagev2ray.site&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:2053 📡 PING-016.11-MS
-vless://73f0da18-c165-4dd6-9a1c-d33f8d124186@104.18.202.232:2082?security=none&type=ws&host=%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.LINK.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2082 📡 PING-016.11-MS
-vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.18.202.232:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443 📡 PING-016.11-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.220.222:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.220.222:80 📡 PING-016.10-MS
