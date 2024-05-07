@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:7307 📡 PING-002.08-MS
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.137:5498#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.137:5498 📡 PING-002.07-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.238:2376 📡 PING-002.06-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.106:5500#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.106:5500 📡 PING-002.05-MS
@@ -497,4 +498,3 @@ vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?security=none&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@176.97.73.82:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇯🇵 JP-176.97.73.82:2053 📡 PING-159.81-MS
 vless://7421c12c-47c4-41cb-8abe-23d0d98eb141@139.162.91.35:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇯🇵 JP-139.162.91.35:443 📡 PING-160.09-MS
 vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?security=none&type=ws&host=mail.mahan-prog.ir&path=%2Fmahdiiprog#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.42:8880 📡 PING-160.12-MS
-vless://21116a95-eaff-4e2a-baf1-0228ec568b72@94.182.136.46:4041?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.46:4041 📡 PING-161.49-MS

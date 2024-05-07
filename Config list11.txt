@@ -1,3 +1,4 @@
+vless://da230f96-66c7-48ab-a206-8d1f50db3fac@172.67.169.28:443?security=tls&sni=pPal03.tOrrEY-BOScO.WoRKeRS.DEV&type=ws&host=ppAL03.TorrEY-bosCo.worKERS.DEV&path=/4f-XNakl1-LeCG0d?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.28:443 📡 PING-001.25-MS
 vless://50e4d756-6e6d-482a-8071-616d00f0baff@104.18.2.186:2053?security=tls&sni=v6a.bestvipbotirr.online&type=grpc&serviceName=%40proxyforopeta&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.2.186:2053 📡 PING-001.25-MS
 vless://96494ca5-6dcf-4d33-b94f-5c3485586095@104.16.28.34:8880?security=none&type=ws&host=hamedan.hiven33959.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.28.34:8880 📡 PING-001.25-MS
 vless://9ba635d5-ed4e-4aa8-90b4-36926544aa28@104.20.71.211:2083?security=tls&sni=sPeEd.vbox778.info.&type=grpc&serviceName=@proxy_n1+%27+@proxy_n1+%27+@proxy_n1&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.71.211:2083 📡 PING-001.25-MS
@@ -497,4 +498,3 @@ vmess://eyJhZGQiOiAiMTkyLjIxMC4yMzEuMjE3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=%2FPath%2FTelegram%40freevirgoolnet%2F%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
 vless://e66bb4ed-ea00-4361-b445-3077c3d9936a@104.19.54.50:443?security=tls&sni=ARIameHr-3WP.PAGeS.Dev&type=ws&host=aRiAMEHr-3WP.pAges.DeV&path=Telegram%40Freakconfig&fp=randomized#@Hope_Net-join-us-on-Telegram
 vless://685b54c6-b344-420a-9aff-2a9cad351678@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#@Hope_Net-join-us-on-Telegram
-vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@45.140.31.171:46769?type=tcp&host=telewebion.com&headerType=http#@Hope_Net-join-us-on-Telegram
