@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:9090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:9090 📡 PING-001.89-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8000 📡 PING-001.89-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:5500 📡 PING-001.89-MS
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.83:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8009 📡 PING-001.88-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.20:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:8119 📡 PING-001.87-MS
@@ -496,5 +498,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.126.211:22222?security=tls&sni
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@144.24.206.147:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-144.24.206.147:443 📡 PING-155.99-MS
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@3.64.163.50:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇩🇪 DE-3.64.163.50:443 📡 PING-156.24-MS
 vless://9dac273d-4e42-48fc-8486-aac2f93ead36@185.143.233.120:443?security=tls&sni=virgool.io&type=ws&host=rulsvitalone-b4091c32c5-app.apps.ir-thr-ba1.arvancaas.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:443 📡 PING-156.29-MS
-vless://070e7068-223b-43e8-84ca-8f47a6f3f12a@46.226.163.253:123?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-46.226.163.253:123 📡 PING-156.83-MS
-vless://d03aa9a0-f43a-4d7d-89be-b558dedda405@5.182.86.128:443?security=tls&sni=nl07.abvpn.ru&type=ws&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-5.182.86.128:443 📡 PING-157.01-MS
