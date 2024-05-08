@@ -1,3 +1,8 @@
+ss://ZmYzYzRkYjMtMjI1OS00NzllLWEwZTAtN2FmN2QxZDQyOWRiOg==@104.21.40.63:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.40.63:443 📡 PING-001.95-MS
+ss://NDMyMzFmMWYtYWExOC00OTFjLThlM2EtNTkzOGNjMDMxZjRjOg==@104.21.42.250:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.42.250:443 📡 PING-001.61-MS
+ss://NDNlMDBlNGMtMjMxNi00ZGM5LTgyNjItY2VmMzE4ODZkYzU2Og==@172.67.183.26:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.183.26:443 📡 PING-001.58-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.27.200.28:989#🔒 SS-TCP-NA 🇺🇾 UY-179.27.200.28:989 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.189:8118#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.189:8118 📡 PING-000.00-MS
 ss://bm9uZTpiYmFjY2FhLWFjYWItYWNhYi1iY2RhLWNhYmJhYWJjYWJjYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 trojan://cbbaaca-cbaa-caba-cbad-acbbcccbaaab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-20-ORDIBEHESHT-1403 🕑 02:32
 trojan://CMLiu@45.59.185.130:25176?sni=trojan.classelivre.eu.org&type=ws&host=trojan.classelivre.eu.org#🔒 TR-WS-NA 🇺🇸 US-45.59.185.130:25176 📡 PING-051.33-MS
@@ -493,8 +498,3 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@158.101.195.118:443?security=tls&fl
 vless://3f926686-dd36-4d3e-bc63-99eae58ddd10@95.164.88.77:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-95.164.88.77:443 📡 PING-100.42-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.109:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.109:443 📡 PING-100.77-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.175:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.175:443 📡 PING-100.79-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.108:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.108:443 📡 PING-100.87-MS
-vless://80bd8c9f-4d14-47c1-9dbf-4ff3422e681e@185.234.64.57:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-185.234.64.57:443 📡 PING-100.88-MS
-vless://f25be958-7d9d-4e4b-a3e4-d82c3b06d16a@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-100.90-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.181:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.181:443 📡 PING-101.02-MS
-vless://b76bf9f9-d680-45c4-9882-51d04f7cbd79@185.164.163.178:10849?security=none&type=tcp&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocol&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-185.164.163.178:10849 📡 PING-101.06-MS
