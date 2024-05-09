@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.242.79.71:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-47.242.79.71:80 📡 PING-202.39-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.167.172.112:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇭🇰 HK-18.167.172.112:443 📡 PING-202.59-MS
 vless://b31a85e3-bd49-4144-ea57-5f9da82e8ba7@13.55.157.2:33306?security=none&flow=none&type=ws&host=media-exp1.licdn.com&path=%252F#🔒 VL-WS-NONE 🇦🇺 AU-13.55.157.2:33306 📡 PING-202.65-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@219.76.13.167:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-219.76.13.167:443 📡 PING-203.44-MS
@@ -497,4 +498,3 @@ vless://ee7fc90a-f18c-4d5b-a6a4-5e283ad249c3@172.67.171.254:443?security=tls&sni
 vless://ae82dd72-9efa-40fa-b7c3-98988cf05366@103.184.45.69:80?type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=/@custom_config?ed%3D2048#🔒 VL-WS-NA 🇨🇳 CN-103.184.45.69:80 📡 PING-005.60-MS
 vless://ba191efb-99fa-4a3d-8938-699c80585f22@172.66.47.153:443?security=tls&sni=pardazesh17.pages.dev&type=ws&host=pardazesh17.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.153:443 📡 PING-005.60-MS
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@103.160.204.123:8443?security=tls&sni=vpn.restia.love&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-103.160.204.123:8443 📡 PING-005.60-MS
-vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.6:2053 📡 PING-005.60-MS

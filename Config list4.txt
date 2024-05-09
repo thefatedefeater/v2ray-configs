@@ -1,3 +1,4 @@
+ss://ZmYzYzRkYjMtMjI1OS00NzllLWEwZTAtN2FmN2QxZDQyOWRiOg==@172.67.178.12:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.178.12:443 📡 PING-005.31-MS
 ss://NDMyMzFmMWYtYWExOC00OTFjLThlM2EtNTkzOGNjMDMxZjRjOg==@104.21.42.250:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.42.250:443 📡 PING-005.25-MS
 ss://TXNWMnJheS1Nc1YycmF5LU1zVjJyYXk6@185.146.173.59:2095#🔒 SS-TCP-NA 🇸🇪 SE-185.146.173.59:2095 📡 PING-005.21-MS
 ss://NDNlMDBlNGMtMjMxNi00ZGM5LTgyNjItY2VmMzE4ODZkYzU2Og==@172.67.183.26:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.183.26:443 📡 PING-005.17-MS
@@ -497,4 +498,3 @@ vless://388452b1-c00e-47b0-bba7-7972c9a8e2e1@94.182.136.183:8443?security=none&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-219.76.13.183:443 📡 PING-199.97-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@35.201.203.106:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇹🇼 TW-35.201.203.106:443 📡 PING-200.76-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.129.171.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.129.171.137:443 📡 PING-202.09-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.242.79.71:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-47.242.79.71:80 📡 PING-202.39-MS
