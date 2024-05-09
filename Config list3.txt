@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.135.18:6697#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:6697 📡 PING-022.15-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:808 📡 PING-021.51-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:804 📡 PING-021.41-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.111:6679 📡 PING-020.61-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5001 📡 PING-020.00-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#🔒 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443 📡 PING-019.92-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.213:443#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.213:443 📡 PING-019.79-MS
@@ -494,7 +498,3 @@ vless://d463b239-4d22-426a-bb4b-030099923fc9@31.47.42.112:45662?security=none&ty
 vless://8701f977-ad11-45fc-9f76-208d86780a29@31.47.45.135:58160?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.47.45.135:58160 📡 PING-300.49-MS
 vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.227:197?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.78.227:197 📡 PING-300.64-MS
 vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.228:197?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.78.228:197 📡 PING-331.26-MS
-vless://d962c240-0c41-11ef-8cb5-1239d0255272@23.158.72.133:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=ws&path=%2Fvlws#🔒 VL-WS-TLS 🇺🇸 US-23.158.72.133:443 📡 PING-039.10-MS
-vless://5bff0694-4cad-45e5-9e87-d766e4172493@103.35.189.42:443?security=tls&sni=jidj-nnxns-----nnnxxx-Telegram-TLS-v2ray-nnnxxx.vikehay275.workers.dev&type=ws&host=us1.x2fast.net&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-103.35.189.42:443 📡 PING-033.80-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.225:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.225:8443 📡 PING-030.36-MS
-vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.64.170.159:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.170.159:443 📡 PING-027.87-MS
