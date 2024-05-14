@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4TTBXWnRaRTJXV2dhYUJPVk4yRnU5WS9EWk50L0FkZGxVZWlzd05uQ1lJPQ==@3.79.6.136:8080#🔒 SS-TCP-NA 🇩🇪 DE-3.79.6.136:8080 📡 PING-092.55-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#🔒 SS-TCP-NA 🇩🇪 DE-49.13.10.50:1194 📡 PING-092.76-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTVl6WHotaFNIekdidXYtRUJ5RmtR@49.12.217.112:1061#🔒 SS-TCP-NA 🇩🇪 DE-49.12.217.112:1061 📡 PING-092.81-MS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927 📡 PING-092.92-MS
@@ -497,4 +498,3 @@ vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=tcp&
 vless://7b8f29a7-5a28-47ac-8cca-27234f048e61@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20@V2rayStore
 vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
 vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
-vless://cc0dc9e3-7504-4d78-904a-e856ab425c80@uk2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
