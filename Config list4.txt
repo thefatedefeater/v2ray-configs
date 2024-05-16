@@ -1,3 +1,6 @@
+trojan://auto@104.21.90.210:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053 📡 PING-005.76-MS
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2087 📡 PING-005.75-MS
+trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443 📡 PING-005.74-MS
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-005.72-MS
 trojan://auto@172.67.2.238:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083 📡 PING-005.68-MS
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083 📡 PING-005.67-MS
@@ -495,6 +498,3 @@ vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@198.244.190.189:443?security=tls&sn
 vless://434928ec-5b3f-4c8c-b0e1-6cda5c0c6856@83.229.75.180:110?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-83.229.75.180:110 📡 PING-078.53-MS
 vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-078.92-MS
 vless://019ab16c-2ee3-4305-80ab-bb2c6170a204@46.101.95.248:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-46.101.95.248:443 📡 PING-079.11-MS
-vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@136.244.64.101:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-136.244.64.101:8080 📡 PING-079.12-MS
-vless://48bd0de9-cc25-427f-f8e9-a13e89ddc53e@192.248.149.199:42683?security=none&type=tcp&host=uplod.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-192.248.149.199:42683 📡 PING-079.30-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.38.43:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-13.43.38.43:22222 📡 PING-079.66-MS
