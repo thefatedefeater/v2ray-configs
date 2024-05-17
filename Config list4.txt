@@ -1,3 +1,4 @@
+trojan://bacacab-cbaa-cbaa-bdac-baaaccbbccba@127.0.0.1:2080?security=tls&type=tcp#⚠️ NOT FOR SALE 🔴 PLEASE NOT USE FOR DOWNLOADS OR GAMES
 trojan://wkmY1R4EcP@45.76.228.197:443?security=tls&sni=z-v2-003263.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-45.76.228.197:443 📡 PING-053.45-MS
 trojan://eWdS9KsAGC@64.225.21.58:54583?security=none&type=tcp&headerType=http#🔒 TR-TCP-NONE 🇺🇸 US-64.225.21.58:54583 📡 PING-059.43-MS
 trojan://eWdS9KsAGC@209.38.48.230:54583?security=none&type=tcp&headerType=http#🔒 TR-TCP-NONE 🇺🇸 US-209.38.48.230:54583 📡 PING-059.93-MS
@@ -497,4 +498,3 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@usamd.ptuu.gq:443?sni=qi79crholtc6q
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@i.badboys.gq:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 6
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mtn.anahid.beauty:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 7
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@niaa.ddns.net:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 8
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@ir8.seeb.shop:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 9

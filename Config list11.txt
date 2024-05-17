@@ -1,3 +1,4 @@
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.46:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.46:443 📡 PING-008.34-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.135.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:2053 📡 PING-008.34-MS
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.125:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.125:80 📡 PING-008.34-MS
 vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@104.21.77.101:2053?security=tls&sni=nl.RxV2ray.space&type=ws&host=nl.RxV2ray.space&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.101:2053 📡 PING-008.34-MS
@@ -497,4 +498,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0281
 trojan://telegram-id-privatevpns@16.171.125.49:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.125.49-1828
 trojan://telegram-id-privatevpns@16.170.72.144:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.170.72.144-1810
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjA3LjI2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLAogICAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMDcuMjYtMDIxMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
