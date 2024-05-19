@@ -1,3 +1,5 @@
+trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://697c11f5-4d7d-46f9-9199-1113ac94670b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://606dc807-e03a-4360-8c5e-52cf1ba9ea9f@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
@@ -496,5 +498,3 @@ vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@104.21.77.101:2053?security=tls&sni
 vless://ea040230-e7f4-4a54-8eed-7b02956b66b9@104.18.202.232:2053?security=tls&sni=irn-vpn-irn-vpn.veboril990.workers.Dev&type=ws&host=irn-vpn-irn-vpn.veboril990.workers.Dev&path=%2F%40IRN_VPN#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:2053
 vless://10716279-b1ee-41d8-b63e-87782088305b@185.148.107.101:443?security=tls&sni=MamAne-fIlTerChi.PaGEs.deV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.101:443
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
-vless://dc915402-33c2-4677-ad78-1475cb3ee91b@104.16.238.68:80?security=none&type=ws&host=穆罕默德侯freerxteamirteamop.rxteam.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.238.68:80
-vless://c16cfefa-3ca3-4853-a582-02cd7205ae65@104.21.92.156:443?security=tls&sni=rightel1.chaghooosazi.shop&type=ws&host=rightel1.chaghooosazi.shop&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.156:443
