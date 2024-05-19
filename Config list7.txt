@@ -1,3 +1,4 @@
+vless://211f783a-ab76-4a47-a760-f70d1cb682a6@104.26.7.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=%40xiv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.89:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2087?security=tls&sni=kk022.ylks.link&type=ws&path=/youtube-由零開始#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.233:2087
 vless://25abd3d3-e76e-46bc-8ae0-fc096f116645@172.67.171.49:80?security=none&type=ws&host=Pt1-vless.sshmax.xyz.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.49:80
 vless://3a9185b8-34b7-4105-b442-e41e8a0128a7@172.67.171.43:443?security=tls&sni=fr1-vless.sshmax.xyz&type=ws&host=fr1-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.43:443
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.21.239:443?security=tls&sni=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.124.69:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.222.124.69:22222
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.143:443
 vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:80?security=none&type=ws&host=ffffrwewrg3.af3025eb2e.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.216:80
-vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083

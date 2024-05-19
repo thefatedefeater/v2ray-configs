@@ -1,3 +1,4 @@
+vless://36112366-6c82-43ce-92b0-1a442a1a7156@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://ac7c3732-7676-4965-8e74-d41a70319a9e@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
@@ -497,4 +498,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@185.148.107.101:443?security=tls&sn
 vless://f3d01b85-4370-4f6e-8133-6a441bb3120f@104.18.12.229:8443?security=tls&sni=pardazeshvpn-tg61.pages.dev&type=ws&host=pardazeshvpn-tg61.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
 vless://ba3fe671-54f8-454e-ab38-699799e48c15@188.114.97.2:2087?security=tls&sni=sw.club-park.top&type=grpc&serviceName=8443vless&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.2:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.179.196:443
-vless://9eaad4d3-0ab2-4118-f479-f0628ce2ab25@104.25.254.88:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:2096

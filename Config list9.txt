@@ -1,3 +1,4 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.130.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.130.59:443
 vless://a4e9c7ae-228d-473a-9514-e2698862bbb9@95.38.202.229:2083?security=none&type=tcp&host=uptvs.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.202.229:2083
 vless://a59739cb-8207-4878-b84d-458e1513bfac@104.21.59.27:443?security=tls&sni=pPAL03.daRREl-hArvey.wORKErs.dEv&type=ws&host=pPAl03.darrEl-HarVeY.WorkeRs.deV&path=%2FCkwZ1KJvVXZvV6Za%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.27:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@104.19.88.174:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.88.174:443
@@ -497,4 +498,3 @@ vless://e6aae0f8-e19a-4bc5-a3f4-efe82ad83673@172.67.214.179:443?security=tls&sni
 vless://4baa3a94-7b86-471d-b022-25d6141ee9db@104.19.250.20:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.250.20:80
 vless://5243fc51-0634-4ef0-97ca-679b781da609@104.31.16.144:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&path=%2F%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+%40LiV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.144:8880
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.76:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.76:8443
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.20.1.94:443?security=tls&sni=Bia-paIn-BACHe.pAGEs.DEv&type=ws&host=Bia-Pain-BaCHe.pAGes.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.1.94:443
