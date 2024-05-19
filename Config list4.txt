@@ -1,9 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#🔒 SS-TCP-NA 🇦🇹 AT-185.180.12.81:989
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8080
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@103.172.116.103:9061#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9061
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#🔒 SS-TCP-NA 🇲🇹 MT-171.22.254.17:989
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.116:8000
-ss://NDZkYmFjOGItZWFiYS00Mjc1LTk0MGMtODE5Zjk1ZDE2OTE2Og==@104.17.248.203:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.248.203:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#🔒 SS-TCP-NA 🇳🇱 NL-188.212.132.20:52952
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8119
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:6379
@@ -498,3 +492,9 @@ trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://697c11f5-4d7d-46f9-9199-1113ac94670b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://606dc807-e03a-4360-8c5e-52cf1ba9ea9f@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
+trojan://8c3d5b6b-63a5-477c-9745-86166c99acd3@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
+trojan://9e2285c4-0480-4428-9d6e-000918f5c6ce@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
+trojan://6b144a13-b7b4-451a-8431-9125c23e547f@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
+trojan://f927f836-2e1a-402a-b756-b079d921ad6d@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
+trojan://da2416a4-343d-4936-99f1-9aea94569e9e@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
+trojan://2b289058-f25c-40f9-919b-347c4114c54d@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
