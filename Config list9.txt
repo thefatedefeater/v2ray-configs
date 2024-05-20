@@ -1,3 +1,5 @@
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.232:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.232:8443
+vless://7984c067-241d-4db7-f4bf-408badfedfb9@5.42.107.242:24377?security=none&type=tcp#🔒 VL-TCP-NONE 🇷🇺 RU-5.42.107.242:24377
 vless://99140fd9-a80e-4da3-875a-51e3caf0eeeb@104.20.254.143:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.254.143:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.17.31.14:34237?security=tls&sni=hk022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-154.17.31.14:34237
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.2:2087?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.2:2087
@@ -496,5 +498,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.46:8443?security=tls&sni=
 vless://d6470e59-749d-4a80-96ea-1d9c48174f54@69.84.182.50:8080?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.50:8080
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.162:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.96:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.96:2087
-vless://119f959d-2fef-4fa6-8f86-698e760b6e01@104.17.231.29:8443?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.231.29:8443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.17:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.17:2083
