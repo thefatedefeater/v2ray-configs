@@ -1,3 +1,5 @@
+vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@94.131.120.237:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-94.131.120.237:20569
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@45.66.129.123:32680?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.66.129.123:32680
 vless://222badf2-8e87-479a-8b77-1a3c952edac2@104.21.92.186:2096?security=tls&sni=vipping.antiping.click&type=grpc&serviceName=sourceforge.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.92.186:2096
 vless://9500134e-7c06-49b8-97ab-8cc43828f0f3@104.24.140.135:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.140.135:80
 vless://c1fcd7eb-7d28-419c-a62f-fe3437fd884b@172.64.100.193:8443?security=tls&sni=pardazeshvpn-tg36.pages.dev&type=ws&host=pardazeshvpn-tg36.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.100.193:8443
@@ -496,5 +498,3 @@ vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:30129#%F0%9F%87%BA%F0%9F%87%B8US-66.225.246.221-0636
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:16899#%F0%9F%87%BA%F0%9F%87%B8US-66.225.246.221-0633
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-0630
-ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.157.179-0629
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@75.102.51.26:16899#%F0%9F%87%BA%F0%9F%87%B8US-75.102.51.26-0634

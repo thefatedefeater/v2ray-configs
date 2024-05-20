@@ -1,3 +1,5 @@
+vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MaManE-filTErChI.PagEs.dEV&type=ws&host=MamAne-FiLTerCHi.pageS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.71.168:443?security=tls&sni=bbF9c21A.tEchNETBPb.PAGEs.DEV&type=ws&host=BbF9c21a.TeCHneTBPb.pAges.dev&path=%2Fl4f75fvmxHpFk3nc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.168:443
 vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=/ssl#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443
 vless://e85b96b9-7f21-46f3-8b7b-104e964e9b75@162.159.153.2:8443?security=tls&sni=join-sho-falcunargo-nl.falcunar.uk.eu.org&type=ws&host=join-sho-falcunargo-nl.falcunar.uk.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:8443
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.205.0.50:443?security=tls&sni=PoRiya-WarPHiDDify-PaNEL.PaGeS.DEV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.50:443
@@ -496,5 +498,3 @@ vless://aabbedaf-6c71-4f90-bade-ea014059e6a5@104.24.246.154:8443?security=tls&sn
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:443
 vless://dcdb3552-9550-4278-b0e7-09ce5a73a6b3@185.146.173.88:8880?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🇸🇪 SE-185.146.173.88:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.139:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.139:443
-vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@94.131.120.237:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-94.131.120.237:20569
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@45.66.129.123:32680?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.66.129.123:32680

@@ -1,3 +1,5 @@
+vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.113:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:2083
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.232:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.26.7.65:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.65:2087
 vless://1ca7e43f-a737-4667-948e-67c2059f82e9@172.67.69.236:443?security=tls&sni=falcunargo.f0e7dc3bfe.workers.Dev&type=ws&host=falcunargo.f0e7dc3bfe.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:443
@@ -496,5 +498,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.147:8443?security=tls&sni=
 vless://01ab9337-f478-4765-9534-88f009f83ddb@34.29.228.169:443?security=tls&sni=aut222.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-34.29.228.169:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.235.18.119:10020?security=tls&sni=hk022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-103.235.18.119:10020
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.16.195.52:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.195.52:2096
-vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?security=none&type=ws&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
-vless://02e75d78-58ad-4a73-afca-24b781d8fdff@104.21.99.250:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.99.250:8443
