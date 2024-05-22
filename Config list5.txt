@@ -1,3 +1,5 @@
+vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=xtls&path=%2f&headerType=none&flow=xtls-rprx-direct#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://e394b3d5-a63e-4faa-aaff-4dd74fbaca8f@sg-freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%200%20@V2rayStore
 vless://8dd6a319-7d65-467d-9184-4f71ff00bebb@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%200%20@V2rayStore
 vless://bc57bcc6-f827-4b08-adf2-326e1a5e5aa1@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200%20@V2rayStore
 vless://3dd01365-6c83-4047-a3fd-bd908b8b417f@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%200%20@V2rayStore
@@ -496,5 +498,3 @@ vless://abfc46f4-49df-4a9d-9032-468b5a319260@103.184.45.36:2096?security=tls&sni
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.129:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.28.129:8443
 vless://f9bfe7bb-dc57-4223-8648-e3fbc12689f7@104.18.203.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2052
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@185.174.138.112:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.112:443
-vless://e6f5af02-51f0-476f-9373-f6831613624d@188.114.97.0:8443?security=tls&sni=hahaghgh.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.0:8443
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.123.151:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.123.151:2082
