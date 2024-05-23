@@ -1,4 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.119:443?security=tls&sni=73fF2B24.BPb-paneL-b1Q.PagEs.DEV&type=ws&path=/M7OU55KeTRvP46UJ?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.119:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.178.228.8:10010?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.228.8:10010
 vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@104.21.51.57:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.57:443
 vless://1dffb1fd-09b3-4bbe-9631-a3ae6a9a57d1@104.18.78.200:80?security=none&type=ws&host=gxg7RQ.dL-apArAT.coM&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.78.200:80
@@ -498,3 +497,4 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.31.16.162:2087?security=tls&sni
 vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?security=none&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇨🇳 CN-103.184.44.62:2053
 vless://62d5939e-50ac-4fbf-b80e-63585b9f9ebe@104.21.226.202:8880?security=none&type=ws&host=ShardV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.brownsnake.monster.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.226.202:8880
+vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?security=none&type=ws&host=ariogames.ir&path=/dash#🔒 VL-WS-NONE 🇮🇷 IR-5.145.115.206:2086

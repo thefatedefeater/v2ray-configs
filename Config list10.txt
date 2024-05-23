@@ -1,4 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:2087?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:2087
 vless://72c90a40-be6b-4f5c-a293-63c7d639739c@172.67.192.28:2083?security=tls&sni=dns.seminar-irani.ir.&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.192.28:2083
 vless://3fea1b33-2b0e-42ab-9b83-66cb6116227f@170.187.231.189:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-170.187.231.189:2003
 vless://90c4ac08-b257-4cc1-968b-8aa77bbb8f88@172.67.184.1:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.184.1:2083
@@ -498,3 +497,4 @@ vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@104.21.59.168:443?security=tls&sni=
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.21.36.71:443?security=tls&sni=ahmedquran19.xyz&type=ws&path=%2Fcurrent_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.36.71:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443
 vless://3f34c8f4-ca63-4df7-a0cb-78e7faaf8fc8@185.148.105.52:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.119:443?security=tls&sni=73fF2B24.BPb-paneL-b1Q.PagEs.DEV&type=ws&path=/M7OU55KeTRvP46UJ?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.119:443
