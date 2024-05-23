@@ -1,3 +1,4 @@
+vless://e3ed372d-dd6a-4f11-9aeb-b53fd0478577@45.12.30.16:80?security=none&type=ws&host=rZ0nao.Dl-vScODE.COm&path=/backup#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.16:80
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@173.245.58.34:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.34:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.34:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.34:443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@103.184.44.21:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.21:80
@@ -497,4 +498,3 @@ vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.205.0.50:443?security=tls&sni=Po
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.17:443?security=tls&sni=73Ff2B24.BPb-PaneL-B1Q.paGes.dEV&type=ws&host=73ff2b24.bpB-PaneL-b1q.pAGeS.deV&path=%2FzHBqkSqKz0ngh49p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.17:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.164.215:443?security=tls&sni=xin222.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.164.215:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.198.219:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.198.219:443
-vless://44db8537-d0f7-4a43-9887-bb334385a1bd@104.17.42.10:2082?security=none&type=ws&host=irov2rayn-irov2rayn-irov2rayn-join-iroazadi-irov2rayn-join.ardeshirssh13.shop.&path=%2F%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-m-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.42.10:2082

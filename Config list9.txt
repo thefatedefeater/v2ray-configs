@@ -1,3 +1,4 @@
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.13.192:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.13.192:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.157.96:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.157.96:8443
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?type=ws&host=binance.co.kp#🔒 VL-WS-NA 🇺🇸 US-151.101.3.1:80
@@ -497,4 +498,3 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.38.95:57770?security=tls&sni
 vless://9e1e9a24-3611-48e6-b2f9-a1db010c3298@188.114.97.2:80?security=none&type=ws&host=Be1-vless.sshmax.xyz.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.2:80
 vless://5b2bad9a-139f-4985-891f-00956573c448@104.16.31.34:80?security=none&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.DEV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.31.34:80
 vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@172.67.217.152:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.152:443
-vless://e3ed372d-dd6a-4f11-9aeb-b53fd0478577@45.12.30.16:80?security=none&type=ws&host=rZ0nao.Dl-vScODE.COm&path=/backup#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.16:80

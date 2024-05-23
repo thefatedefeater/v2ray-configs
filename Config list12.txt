@@ -1,3 +1,4 @@
+vless://cbcceb3e-63be-42b3-ab9c-c36563c73526@104.24.197.20:8080?type=ws&host=ws.nastoh1.sbs&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.197.20:8080
 vless://22f67bea-0398-49a2-b708-2cc4dbf52b9e@188.114.99.99:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.99:2087
 vless://d3eb0fbf-2062-4564-feec-9dbf047864fd@172.66.213.38:2053?security=tls&sni=gnpe.t-sub.site&type=grpc&serviceName=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2053
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?security=tls&sni=edge.020770.xyz&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.36.66:443
@@ -496,5 +497,4 @@ vless://0db1fe43-f0dc-415f-be11-ebbb2e08ff13@188.114.98.224:2095?path=%2F&securi
 
 ãN
 ¢Ñhºw
-404: Not Found
 404: Not Found

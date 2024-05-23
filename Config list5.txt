@@ -1,3 +1,4 @@
+vless://3fea1b33-2b0e-42ab-9b83-66cb6116227f@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://02fa3182-c1c5-45b6-9d75-789cff8a6175@id-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://fa83591b-c370-4869-8e32-e4eda9afedc9@hk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -497,4 +498,3 @@ vless://51a844a4-fb41-4bb7-b79d-5bf40a832fe5@185.16.110.193:2096?security=tls&sn
 vless://366929f2-8b3e-4e76-97f1-cdf6ab59dec1@172.66.213.38:8443?security=tls&sni=vr.v2ray962.filegear-sg.me&type=ws&host=vr.v2ray962.filegear-sg.me.&path=/&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.38:8443
 vless://b91f25a0-193f-4485-8f7d-b9455ba2a63c@172.67.163.123:443?security=tls&sni=tr1-vless.sshmax.xyz&type=ws&host=tr1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.123:443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?security=tls&sni=test51.pages.dev&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.110:443
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.195.136:443?security=tls&sni=BiA-Pain-Bache.PAges.dEV&type=ws&host=BIa-pAIN-bAChE.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.195.136:443
