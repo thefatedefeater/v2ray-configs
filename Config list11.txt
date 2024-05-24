@@ -1,3 +1,5 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.112.235.90:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.90:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.179:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.179:443
 vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@162.159.133.234:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2087
 vless://5cd008f7-4702-4f65-8c2d-67e348731fa4@160.79.104.233:443?security=tls&sni=host.gamingshoping.ir&type=grpc&serviceName=IranPing&fp=edge&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.79.104.233:443
 vless://e9122f37-d226-469c-89df-db15701f2023@172.67.178.175:80?security=none&type=ws&host=87.事出场次以运7.tech&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.178.175:80
@@ -496,5 +498,3 @@ vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@104.21.220.87:443?security=tls&sni=
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
 vless://f39008fb-8201-4968-acd6-952e81af9c3b@85.133.237.222:2021?security=none&type=tcp&host=exo.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.237.222:2021
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.161.65:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.65:2096
-vless://3f867231-561b-4bcd-acc0-d60a96c390ba@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.178.228.8:10010?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.228.8:10010

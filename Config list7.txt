@@ -1,3 +1,5 @@
+vless://486c2641-9156-42e2-a43c-3004f9b74dc4@172.67.194.207:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.207:443
+vless://dee3c7b0-592d-4c4e-81cd-d3a8dd309654@188.114.99.29:80?security=none&type=ws&host=v2kingfree6.9.6.9.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.&path=/v2kingfree#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.99.29:80
 vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.244.103:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.103:2083
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.248.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.248.203:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@107.172.86.60:21072?security=tls&sni=hk116.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-107.172.86.60:21072
@@ -496,5 +498,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.153:2087?security=tls&sni
 vless://9c589042-db10-47c1-a6db-91149c52ecab@185.97.118.221:2086?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.97.118.221:2086
 vless://815724d3-0d61-4761-be07-471441d42be5@172.67.24.121:80?security=none&type=ws&host=holland.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.24.121:80
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@104.19.88.174:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.88.174:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.140:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.140:443
-vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086

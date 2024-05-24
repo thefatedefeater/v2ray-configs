@@ -1,3 +1,5 @@
+vless://f32c16b4-ae2b-449d-8002-599e4dfc448d@104.21.32.116:2053?security=tls&sni=bpro.ghodratebartar.ir&type=grpc&serviceName=bpro.ghodratebartar.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.116:2053
+vless://9eaad4d3-0ab2-4118-f479-f0628ce2ab25@104.25.254.88:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:2096
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096
 vless://ac820b81-e404-4284-bfcf-0220addbbcc9@162.159.128.233:8443?security=tls&sni=real-state2.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.128.233:8443
 vless://b9855ce6-9aba-460e-bf45-e6b72be25cff@104.21.63.156:443?security=tls&sni=recvpn-recnew-itworld.rivasmed.com&type=ws&host=recvpn-recnew-itworld.rivasmed.com&path=%2Fitworld%2F12250#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.156:443
@@ -496,5 +498,3 @@ vless://9dac273d-4e42-48fc-8486-aac2f93ead36@185.143.233.120:443?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.176.18:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.176.18:443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&sni=test43.pages.dev&type=ws&host=test43.pages.dev&path=Path%2FTelegram%40--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.7:443
 vless://72853790-c2b5-4147-a70d-44a519763fd6@104.18.42.50:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.42.50:443
-vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80?security=none&type=ws&host=esetsecuritylicense.kaxlmn.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:80
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@204.216.105.106:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇨🇦 CA-204.216.105.106:8443
