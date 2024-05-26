@@ -1,6 +1,3 @@
-vless://4d6fa72f-62cf-4b4a-92b1-a7dbf354e4c6@de2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
-vless://a8e4a5ea-c89f-413a-8a94-0f50df83650d@au-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20gRPC%20@V2rayStore
-vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@it-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20gRPC%20@V2rayStore
 vless://1fa16bd8-57cc-4841-b0b9-4d1601bdf482@ua-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20gRPC%20@V2rayStore
 vless://3dee9636-9663-404d-a9d9-459d9e6d4459@es-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20gRPC%20@V2rayStore
 vless://be3fb84a-e45a-4923-ad74-c76e597be43b@sg-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
@@ -498,3 +495,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.175:2083?security=tls&sn
 vless://ca1109ad-1841-4f5f-8560-87068615d595@104.21.74.214:8880?security=none&type=ws&host=vip1cloudmaaghzkaadev2ray.v2rayng6.6.6.6.ir.com.vpn.nvp.chOoktaShaKoraBi.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@150.66.7.95:34237?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-150.66.7.95:34237
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.166:2053
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@162.159.135.233:8443?security=tls&sni=iraniancp.autos&type=ws&host=b4.iraniancp.autos#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.233:8443
+vless://06f59004-d4e8-4652-b9f8-62164bda1e19@104.27.196.177:80?security=none&type=ws&host=1.debian.org.ftp.debian.org.speedtest.net.xn--48jyb6ec1ad.soly.info.&path=%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%40v2safee-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.196.177:80
+vless://d8062a4c-4fe9-49cf-b273-dfcdd78bca0a@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003
