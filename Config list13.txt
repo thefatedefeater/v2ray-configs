@@ -1,7 +1,3 @@
-vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@162.159.240.154:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.240.154:2096
-vless://a54a8e51-cb42-4fe0-9c7b-1b56937e481a@188.114.97.0:2096?security=tls&sni=moal5.jokpas1.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.0:2096
-vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@104.21.78.138:8443?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.138:8443
-vless://67ac2966-c633-4fbe-92dd-8c666881c6de@162.159.254.222:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.254.222:8080
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@103.184.44.39:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.39:80
 vless://5b6519a3-bb52-420a-b6e2-7e7a80897423@172.67.204.39:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.39:80
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2096
@@ -498,3 +494,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.123.250.209:2087?security=tls&s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.245:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.245:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.229:2053
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@43.153.208.195:26306?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-43.153.208.195:26306
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.151:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.151:80
+vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&host=workerr.strife-dc2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.198:2082
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.25.181:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.25.181:443
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.158.158:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.158.158:2053
