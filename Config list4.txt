@@ -1,6 +1,3 @@
-ss://MmUwMWViY2YtNGJkNi00YmU0LTkzNjUtZjVjNjIzNTEwNTEyOg==@162.159.252.60:80#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.252.60:80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#🔒 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443
-ss://NWYzZGI2NDUtYWUwYi00Y2Y2LWFlZTEtODM4YTkyYjZlYTY4Og==@104.21.58.76:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.58.76:443
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.202:8008#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.202:8008
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037
 ss://NDQzN2FmM2QtOWQwNi00ZjM2LTg2YzYtYmQ0MTYzOGE2NjU3Og==@104.21.77.3:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.77.3:443
@@ -498,3 +495,6 @@ trojan://a9d4426f1c76c6b@172.67.204.84:2053?security=tls&sni=bestfollower.fandla
 trojan://333b4368-8162-3997-bc38-db1d667cc921@142.171.219.14:21156?sni=lavip101.qlgq.fun&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-142.171.219.14:21156
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
+trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2FproxyIP%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🇬🇧 GB-164.38.155.61:443
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&allowInsecure=1#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
+trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:443
