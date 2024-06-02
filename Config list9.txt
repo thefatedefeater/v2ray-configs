@@ -1,3 +1,4 @@
+vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@104.21.31.15:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.31.15:2053
 vless://d64e0999-246e-40eb-ad1f-16221a9a3dfd@140.99.233.4:443?security=tls&sni=Newserver.dorhami.site&type=grpc&serviceName=V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1-V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-140.99.233.4:443
 vless://ebffe82b-1e65-43d6-a8f0-4bcbbc3e39da@164.38.155.6:8080?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇬🇧 GB-164.38.155.6:8080
 vless://5d19853b-93ed-4718-b228-2979cf38cc28@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003
@@ -497,4 +498,3 @@ vless://c320a4fa-f9d7-4d53-a62c-bab6c6a86855@172.67.204.84:8880?security=none&ty
 vless://711cb43b-b46d-400a-a6de-063bab0af142@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.177:443?security=tls&sni=kk332.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.177:443
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@104.20.23.46:443?security=tls&sni=hdfy1c1.cpiforpersia.uk&type=ws&host=hdfy1c1.cpiforpersia.uk&path=/LNGeLLJXXIlSdZMqnuxG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.23.46:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.144:443

@@ -1,3 +1,4 @@
+vless://7ac39a71-e678-4621-80bc-a0fc38866d17@172.66.47.171:443?security=tls&sni=pardazeshvpn-tg95.pages.dev&type=ws&host=pardazeshvpn-tg95.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.171:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.146.127:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.127:443
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@172.67.135.195:443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.135.195:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.94:443
@@ -497,4 +498,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.95.140:2083?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.146.173.20:443?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.20:443
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=de3-vless.sshmax.xyz&type=ws&host=de3-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.149.28:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.149.28:80
-vless://01ab9337-f478-4765-9534-88f009f83ddb@129.146.7.98:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-129.146.7.98:443
