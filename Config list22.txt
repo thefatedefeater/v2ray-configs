@@ -1,3 +1,5 @@
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&security=tls&sni=vpNeRor.SAjadHADadi.WEbsiTe&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣3️⃣
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&host=ton.apple&security=tls&sni=www.arizona.edu&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣4️⃣
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&path=%2F&security=none&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣7️⃣
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=FaRAhDibA.pAgEs.dEv&path=%2FTelegram-%40Capoit%2F%3Fed%3D2560&security=tls&sni=faRAHDIba.pagES.DEV&type=ws#رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣
 vless://c90ce1c3-5a45-4b5b-8655-09bb64f2a607@185.146.173.9:2095?encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣2️⃣
