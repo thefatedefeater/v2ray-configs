@@ -1,3 +1,4 @@
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.27.150:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.27.150:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20182#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20182
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:812#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:812
@@ -497,4 +498,3 @@ trojan://47824654-0a19-45ae-9f13-0c2b42ce911f@142.93.211.126:443?security=tls&sn
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.142:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.142:2083
 trojan://E0002134H@104.21.43.145:2096?sni=6504e90a.xpxroject.pages.dev&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.43.145:2096
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.22:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.22:2096
-trojan://a5da0a9c-97e2-4179-a51a-66566b677740@162.55.6.150:443?security=tls&sni=medidor-gro-hidalgo-1.uninet.net.mx.prod.hosts.ooklaserver.net&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-162.55.6.150:443

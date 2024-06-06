@@ -1,3 +1,4 @@
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.15.19:2053?security=tls&sni=qopyz.oxnetirz11.ONfLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.ONfLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.19:2053
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@172.67.140.54:443?security=tls&sni=test-teSt-tEsT-teSt.pagES.DEv&type=ws&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.140.54:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.184.12:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.12:443
 vless://2f4d8ee0-496e-4107-9dc6-2c31eaf1a2e6@194.247.187.130:22305?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-194.247.187.130:22305
@@ -497,4 +498,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.221.160.219:443?security=tls&sn
 vless://be14b8ed-73f2-4d7b-8bac-ac7ce75da266@89.235.116.58:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.116.58:8443
 vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%40TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@147.185.161.44:443?security=tls&sni=v600.ylkszy.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.44:443
-vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.64.172.28:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.172.28:443

@@ -1,3 +1,4 @@
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://f2e3b2f8-f3a7-4218-85f3-1a4842130226@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
@@ -497,4 +498,3 @@ vless://2e23f47c-5cf1-4b8b-9992-db41f2265ed9@104.21.52.225:2053?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@185.165.205.5:443?security=tls&sni=SANdWORM.PAGES.DeV&type=ws&host=SaNdWorM.paGes.DEv&path=/NUx3f5M3thQHsamp&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.165.205.5:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.21:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/https://octohide.com/routertabrizm137.com/diamond_tm/t.me/azarbayjab1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.21:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.12.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.56:443
-vless://5bdf790f-0af2-4481-a624-41b66e7e3489@199.232.192.193:443?security=tls&sni=ImGuR.CoM&type=ws&host=IrCpOnE.iR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.192.193:443
