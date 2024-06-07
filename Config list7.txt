@@ -1,7 +1,3 @@
-vless://731bbbeb-62e8-4721-a60d-2c359f0abe02@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://9b12b685-9089-4f5e-bed4-ca060db7b979@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://09d4b837-72f6-4f9f-a0fe-db52aea19564@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
-vless://509fd5aa-5859-4618-8de8-428b38c269ec@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
 vless://45e7e09e-57ff-497c-aef8-eddb332704e5@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
 vless://fa3c063e-a5eb-416b-882b-852d40a3ee09@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
@@ -498,3 +494,7 @@ vless://7664dc26-aeb9-473b-a6dd-d0e2beac1fab@104.31.16.9:80?security=none&type=w
 vless://266169d9-665f-4fed-b1a8-da29794ee3cd@104.21.60.240:2053?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.240:2053
 vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.130.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:8443
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.20.71.211:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.71.211:2096
+vless://957e3de7-7f01-49b9-afcc-949930381128@162.251.82.187:2082?security=none&type=ws&host=61.athena.sa.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:2082
+vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
+vless://65855cda-b08a-4738-9c5c-9588fc91f68e@188.114.97.1:8080?security=none&type=ws&host=cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.1:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.30.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.30.227:443

@@ -1,7 +1,3 @@
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.135.85:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%2Fproxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.135.85:2083
-vless://a6486f98-817a-4b46-8add-ca60a0f39367@85.9.115.139:20053?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.9.115.139:20053
-vless://d41f9cfb-9610-49bf-a07f-56fd43c54f1f@172.67.198.149:80?type=ws&host=alwaysconnect.ddns.net&path=/alwaysconnect#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.198.149:80
-vless://97d9db8c-5756-4e2f-8462-8ede639c0a1f@185.237.13.191:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-185.237.13.191:8880
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
 vless://3573e374-f9b1-4898-de16-3979bc0b528a@104.20.117.101:80?security=none&sni=bia-to-channel.unlimiteddev.xyz&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.117.101:80
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?security=tls&sni=gp.mrclothshop.fun&type=grpc#🔒 VL-GRPC-TLS 🇷🇴 RO-45.85.118.88:2087
@@ -498,3 +494,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.186:443?security=tls&sn
 vless://d6ad63c2-6079-4f32-9d3e-065c2f4d5b42@104.21.19.124:80?security=none&type=ws&host=v2kingfree.3.5.3.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@43.154.104.77:443?security=tls&sni=xin022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-43.154.104.77:443
 vless://c3114b07-95a6-4cb0-8bbd-b3f0931233b2@104.21.5.226:443?security=tls&sni=ir1.v-mizban.info&type=ws&path=/vqkubV5xX0Tulg7tx5HRa&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.5.226:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2052?security=none&type=ws&path=/youtube-由零開始#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.76.195:2052
+vless://278e6bb1-6fa6-4173-8722-cda26ec6f789@172.67.134.153:443?security=tls&sni=solve.butterfly-galaxy.com&type=ws&path=/solve&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.153:443
+vless://f32c16b4-ae2b-449d-8002-599e4dfc448d@104.21.32.116:2053?security=tls&sni=bpro.ghodratebartar.ir&type=grpc&serviceName=bpro.ghodratebartar.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.116:2053
+vless://c51040ff-6a23-4e6b-8eb1-56c1efebec0b@213.176.126.149:43215?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.126.149:43215
