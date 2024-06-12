@@ -1,6 +1,3 @@
-vless://d75f3154-6d3f-4cb1-a348-9a1001f38268@95.164.117.128:443?security=tls&sni=de2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-95.164.117.128:443
-vless://0b9521d9-fb34-4b5e-b27c-d591f193bcf3@104.24.176.7:2096?security=tls&sni=chh.cheetahmh45.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:2096
-vless://b410a09a-6509-4a7b-991f-1ccd129121c4@172.64.35.205:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.xn--48jyb6ec1ad.kalamobile.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.35.205:8880
 vless://afd3e846-f132-4305-82dc-466c96b1108a@172.67.131.5:443?security=tls&sni=esetsecuritylicense1.wsshga.workers.dev&type=ws&host=esetsecuritylicense1.wsshga.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.5:443
 vless://09c795fd-4c13-491e-b419-2598410077b9@185.53.142.133:443?security=tls&sni=xn--rgbk3dif70f.jObfiNeX.ir.&type=grpc&serviceName=/@custom_config?ed%3D2056#🔒 VL-GRPC-TLS 🇮🇷 IR-185.53.142.133:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.182.52:443?security=tls&sni=sHAv.MA-NpO.worKeRs.DEv&type=ws&host=shAV.MA-nPO.wORKERs.dEV&path=/zd0PLRTYdpHQAYwl?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.52:443
@@ -498,3 +495,6 @@ vless://25abd3d3-e76e-46bc-8ae0-fc096f116645@104.21.25.109:443?security=tls&sni=
 vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@104.21.20.148:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2087
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@85.133.146.64:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.146.64:2080
 vless://0c14db88-0343-4049-9779-9c2d9287f9e0@185.146.173.21:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.21:8880
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.222.134.170:8443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.222.134.170:8443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.18.33:443?security=tls&sni=ppal03.lia-HARTMAnn.woRkErs.dEV&type=ws&host=ppAL03.lIA-HArtManN.workers.DeV&path=%2FLK8QINcpxrBc7yhF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.33:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.23.72:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.72:2083
