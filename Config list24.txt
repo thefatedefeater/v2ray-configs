@@ -1,3 +1,5 @@
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.22.73.145:2087?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.73.145:2087
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.149:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.149:80
 vless://46764e4a-65d2-4ea0-ad4e-105b6beaa357@172.67.171.46:443?security=tls&sni=pl2-vless.sshmax.xyz&type=ws&host=pl2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.46:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@54.212.77.119:80?security=tls&sni=xin116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-54.212.77.119:80
 vless://afd3e846-f132-4305-82dc-466c96b1108a@188.114.98.102:443?security=tls&sni=esetsecuritylicense1.wsshga.workers.dev&type=ws&host=esetsecuritylicense1.wsshga.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.102:443
@@ -496,5 +498,3 @@ vless://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443?security=tls&sni
 vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.4.12:8443?security=tls&sni=pardazeshvpn-tg23.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.4.12:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.191.59:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.191.59:80
 vless://d64f44d5-66dc-47ee-b991-721b4a96b63d@172.67.168.121:443?security=tls&sni=freedom.tcmugm.workers.dev&type=ws&host=freedom.tcmugm.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.121:443
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.72.249:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-3.9.72.249:22222
-vless://25b45954-6209-48c2-a412-c568c8154cf0@172.67.220.70:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.70:2083

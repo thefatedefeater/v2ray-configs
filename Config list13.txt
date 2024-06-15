@@ -1,3 +1,5 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.129.145:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.129.145:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.48:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.48:443
 vless://3237181b-74a5-4917-bc74-2958fa21786a@172.66.192.80:443?security=tls&sni=vless.siliv98810.workers.dev&type=ws&host=vless.siliv98810.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.192.80:443
 vless://7bfc8f4b-46fa-44e0-bf0f-ad5d3c899733@104.17.72.92:443?security=tls&sni=simorgh.hideandsurf.com&type=ws&host=simorgh.hideandsurf.com&path=%2FBamdadSepid%40Happy_Bam%3Fed%3D2560&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.72.92:443
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@104.20.109.195:80?security=none&type=ws&host=tunn.free.hr&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.109.195:80
@@ -496,5 +498,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.137.196:443?security=tls&sn
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.242:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.242:8919
 vless://e3d94a9f-d58c-436e-82b3-fa47e0920388@185.146.173.94:8880?security=none&type=ws&host=LiV2rayf.lightningz.ir.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.80.85:2087?security=tls&sni=jp009.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.85:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.2:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.2:443
-vless://711454ef-ee37-47ab-db7f-9133610c9e0d@95.217.17.242:22555?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-95.217.17.242:22555

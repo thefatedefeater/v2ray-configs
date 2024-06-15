@@ -1,3 +1,5 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@141.101.113.211:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.211:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.67.215.70:2087?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.70:2087
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.13:443?security=tls&sni=xeeqi.kevani8800.workers.dev&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.13:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.250.77:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇱🇹 LT-89.116.250.77:443
 vless://b8754da6-24e2-46fd-bf3d-ea8c050c5c6b@185.211.58.86:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.58.86:80
@@ -496,5 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.51:443?security=tls&sni=j
 vless://4e6965f9-2364-4ef6-98c6-02998a224e32@172.67.221.191:443?security=tls&sni=mon1.api-tel.ir&type=grpc&serviceName=okala.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.221.191:443
 vless://26c6c328-93ed-4d0c-bf2e-488aad5e71b0@172.64.150.145:80?security=none&type=ws&host=almanv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.retete.fun.&path=/germaniV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.150.145:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.110.102:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.110.102:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.13:8443
-vless://fbdf202a-02b0-486e-a8f7-3fde4398ffec@172.67.190.127:2095?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:2095

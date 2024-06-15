@@ -1,3 +1,5 @@
+vless://f8ae1d19-44c5-4cc3-ab1c-24e452ed15a0@104.16.60.8:2095?security=none&type=ws&host=main-news-day-rubikairanjahan.fars-news.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.8:2095
+vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:8443?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.28:8443
 vless://9bb36300-163b-4f2b-d404-ea52ec7aa240@104.17.148.22:2086?security=none&type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2086
 vless://52c602fc-532d-49ee-9383-f8eb0007322b@104.31.16.92:80?type=ws&host=unitedstates.heydasip.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.31.16.92:80
 vless://b698d363-fc2f-4cf3-bb24-9edca375b34b@104.21.34.60:443?security=tls&sni=irnv2ray.irnv2ray.workers.dev&type=ws&host=irnv2ray.irnv2ray.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.60:443
@@ -496,5 +498,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa5@104.21.43.14:443?security=tls&sni=telegram-vpnhttpinjectorfree-1.childnotnamed.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-1.childnotnamed.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.14:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443
 vless://5154c9b4-796c-400c-b1ba-817f36823e92@104.24.186.117:2087?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=Asa&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.186.117:2087
-vless://e4600b59-5e4f-47ae-97ea-33a144fda802@172.67.193.63:2083?security=tls&sni=favorm.khorm.ir&type=ws&host=favorm.khorm.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.63:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.143.237:2083?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:2083
