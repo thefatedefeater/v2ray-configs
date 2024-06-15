@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.170.157:443#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.170.157-2991
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNzU3M2RlMC03YTRiLTNjNTEtYmEwMC1iNDJhYWQ3Yzc4MGQ=@iepl2.forlive.live:50006#%F0%9F%87%AF%F0%9F%87%B5JP-154.16.55.112-1982
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.168.200:443#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.168.200-2939
+vmess://ewogICAgImFkZCI6ICIxODUuMTQ2LjE3My4xODUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzZXl5ZWRtdC5kaWdpa2FsYS5jb20uc2V5eWVkbXRhcGFyYXQuY29tMi5tb296LmJsb0ciLAogICAgImlkIjogImFlN2Q3N2MzLTc3YmYtNGYxNS1hMWExLTRkZjE2OGViODQ0NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9WMnJheS5TZXl5ZWRNVCIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xODUuMTQ2LjE3My4xODUtMDE5OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.131-0269
 trojan://ypDt8RkT7J@151.115.83.178:43118?security=tls&sni=eimna.phooeyunfold.com#%F0%9F%87%B5%F0%9F%87%B1PL-151.115.83.178-0271
 vmess://ewogICAgImFkZCI6ICIzOC45NS4yMzMuMjIyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ3cuYWxpY2RuLmNvbSIsCiAgICAiaWQiOiAiNDFmY2Y0YWUtOTI2Ni00MjJmLWY3MzAtYjFmZjU3YmIwMzQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7rwn4e4VVMtMzguOTUuMjMzLjIyMi0wODUxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
@@ -494,7 +498,3 @@ trojan://ypDt8RkT7J@89.187.189.88:43118?alpn=http%2F1.1&fp=random&security=tls&s
 trojan://ypDt8RkT7J@138.199.57.185:43118?alpn=http%2F1.1&fp=random&security=tls&sni=eiety.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣4️⃣
 trojan://NISHIKUITAN222@61.247.83.116:39308?host=t033.ylks.link&path=%2F&security=tls&sni=t033.ylks.link&type=ws#رایگان | TROJAN | @oneclickvpnkeys | KR🇰🇷 | 0️⃣5️⃣
 trojan://ypDt8RkT7J@151.115.83.239:43118?alpn=http%2F1.1&fp=random&headerType=none&security=tls&sni=egajz.phooeyunfold.com&type=tcp#رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣1️⃣
-trojan://ypDt8RkT7J@151.115.83.178:43118?alpn=http%2F1.1&fp=random&headerType=none&security=tls&sni=eimna.phooeyunfold.com&type=tcp#رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣2️⃣
-trojan://ypDt8RkT7J@121.127.46.131:43118?alpn=http%2F1.1&fp=random&headerType=none&security=tls&sni=tpmrt.phooeyunfold.com&type=tcp#رایگان | TROJAN | @VmessProtocol | SE🇸🇪 | 0️⃣3️⃣
-trojan://ypDt8RkT7J@207.211.215.169:43118?alpn=http%2F1.1&fp=random&headerType=none&security=tls&sni=tpmwf.phooeyunfold.com&type=tcp#رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣4️⃣
-trojan://ypDt8RkT7J@89.187.181.172:43118?alpn=http%2F1.1&fp=random&headerType=none&security=tls&sni=egcmi.phooeyunfold.com&type=tcp#رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣
