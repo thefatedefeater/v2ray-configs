@@ -1,3 +1,4 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.227.84:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.227.84:443
 vless://5d0e2838-6dcf-4012-cfae-a445f914d9e6@104.19.16.150:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.16.150:2096
 vless://847ad211-2af1-455d-954e-729957701e1f@162.159.44.215:443?security=tls&sni=ix9l1h.simpateen.top&type=ws&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.215:443
 vless://d3484b27-0cdf-469b-953e-1066d4e488f8@104.21.89.84:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.84:443
@@ -497,4 +498,3 @@ vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@185.146.173.12:443?security=tls&sni
 vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@172.67.203.133:8443?security=tls&sni=ice.moderplus.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.203.133:8443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.154.99:80
 vless://b08240fd-72a7-48ce-97cf-905c499a3fda@66.235.200.92:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.92:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.83:80

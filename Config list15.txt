@@ -1,3 +1,4 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:20001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:20001
 vless://8cf61d90-ecc8-4dd4-9203-30d77bad5526@49.13.223.202:41802?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-49.13.223.202:41802
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@45.12.31.163:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2FProxy_mtm%3Fed%3D2048#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.163:2083
 vless://3e33acba-13b9-4485-9c0c-ae5501e2b468@104.25.46.234:8443?security=tls&sni=pardazeshvpn-tg31.pages.dev&type=ws&host=pardazeshvpn-tg31.pages.dev&path=%2F@VPNHTTPInjectorfree&fp=safari&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.46.234:8443
@@ -497,4 +498,3 @@ vless://486c2641-9156-42e2-a43c-3004f9b74dc4@104.21.44.43:443?security=tls&sni=s
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&type=ws&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&path=%2F#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.135:443
 vless://3c1c3562-8545-46e5-a98a-cd0b9ca52df5@104.21.78.190:443?security=tls&sni=joinmahdiserver.pydqrxd.workers.dev&type=ws&host=joinmahdiserver.pydqrxd.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.190:443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=TELEGRAM+@NETMelliAnti#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.220:443
-vless://0b97aee4-aafb-4e1e-a2bc-e6e5128b81a0@104.18.41.176:443?security=tls&sni=ch2.vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.41.176:443

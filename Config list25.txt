@@ -1,3 +1,4 @@
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@51.79.254.182:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-51.79.254.182:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.186:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.186:443
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf0@23.227.60.48:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇦 CA-23.227.60.48:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.150.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.150.237:443
@@ -497,4 +498,3 @@ vless://587ce3f0-0935-42e6-b673-612b97ff4724@104.21.20.148:80?security=none&type
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.129.54:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.129.54:443
 vless://c246daba-2caa-4364-8840-70117ee5cd80@104.18.134.66:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.134.66:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.207.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.207.90:80
-vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@104.21.78.235:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.235:443

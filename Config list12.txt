@@ -1,3 +1,4 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.145.72:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.145.72:80
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.224.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.224.150:443
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.47.18:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.18:443
@@ -497,4 +498,3 @@ vless://c41673f6-b686-4d7b-8911-a35f2b4104f4@104.17.223.175:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.12.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.56:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.161.104:443?security=tls&sni=MaManE-fIlTErCHI.pAGES.Dev&type=ws&host=MAMane-fILTeRCHI.PaGes.dEv&path=%2F%3Fed%3D2560&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:443
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.192.65:8880
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.227.84:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.227.84:443
