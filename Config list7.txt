@@ -1,8 +1,3 @@
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@48.218.146.89:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.146.89:443
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
-trojan://NISHIKUITAN222@47.236.117.48:8443?security=tls&sni=t033.ylks.link&type=ws&host=t033.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.117.48:8443
-trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.252:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.252:443
 trojan://31bd5674-078a-4248-bc87-f609c4993ee8@95.164.117.128:443?security=tls&sni=de2-full.privateip.net#🔒 TR-TCP-TLS 🇩🇪 DE-95.164.117.128:443
 trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.31:443?security=tls&sni=B0lVxLJll.diamondgalery.ir&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.49.31:443
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@82.192.82.227:443?#🔒 TR-TCP-NA 🇳🇱 NL-82.192.82.227:443
@@ -498,3 +493,8 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.4:443?#🔒 TR-TCP-NA �
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.45:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.45:2087
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.69:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.69:2096
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.246:2096
+trojan://NISHIKUITAN222@8.219.139.13:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.139.13:8443
+trojan://cd450b19-7ab7-4fce-b5df-4db4ee9b1e21@138.124.184.173:443?#🔒 TR-TCP-NA 🇺🇸 US-138.124.184.173:443
+trojan://5751bfb0-1fd0-11ef-a62a-1239d0255272@103.252.90.93:443?#🔒 TR-TCP-NA 🇫🇷 FR-103.252.90.93:443
+trojan://NISHIKUITAN222@47.237.81.112:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.81.112:8443
+trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.61.8:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
