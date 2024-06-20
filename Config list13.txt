@@ -1,3 +1,7 @@
+vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?security=tls&sni=zac1.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.141.116:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.141.99:2087
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.37.42:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.37.42:80
+vless://dd8e3267-0402-4fb9-a7b7-4782b168060f@104.21.91.124:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.91.124:2096
 vless://6426a598-4686-4d83-8215-a330e8a36a3a@104.18.130.169:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-31.veleh14860.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.130.169:80
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.242.155.183:2053?security=tls&sni=v600.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-47.242.155.183:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2087?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:2087
@@ -494,7 +498,3 @@ vless://09df9a35-99a0-4d6b-8800-62159224d492@94.182.137.157:51540?security=none&
 vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.57.29:8888
 vless://4111196d-ceb2-4eda-9ffc-2d69495dd18d@159.100.18.235:443?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-159.100.18.235:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.254.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.254.250:443
-vless://005ab53a-97ad-44c8-b140-4dee3eb3c02b@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https%3A%2F%2Ft.me%2Fnew_proxy_channel-%40new_proxy_channel&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2053
-vless://b3a313ec-7bea-5315-93ee-38ada6002bd8@45.12.30.249:80?security=none&type=ws&host=sany.sany27654.WORkeRs.dev&path=vless-ws%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.249:80
-vless://06d11291-32fd-4696-013e-a29e0784b126@81.12.92.137:17445?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.137:17445
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.175:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.253.175:80
