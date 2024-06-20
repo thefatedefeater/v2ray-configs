@@ -1,3 +1,7 @@
+ss://aes-256-gcm:eb9c51f5-52ac-4315-b822-eec1a683572a@ua-full.privateip.net:8443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:77bce8a9-8d88-4dfd-bfc8-c082f38e20fa@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:09bf3c59-0ae4-40a0-a282-e35e820dca6e@sg-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:db9372ac-20e0-487f-8ea5-fb0aaac5ca48@sg2-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:0713f888-f426-47b4-bbaf-7eecae3108f8@id-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:5decbed3-0be2-4f45-b9de-b29024dacb47@hk-full.privateip.net:8443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:65964dec-7937-45f1-9c84-68260d30a30e@nl-full.privateip.net:8443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Shadowsocks%20@V2rayStore
@@ -494,7 +498,3 @@ vmess://ewogICAgImFkZCI6ICJ1azItZnVsbC5wcml2YXRlaXAubmV0IiwKICAgICJhaWQiOiAwLAog
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0785
 trojan://c90ab8ea-2b08-46a6-9c10-d010e44938c5@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net#%F0%9F%87%B3%F0%9F%87%B1NL-176.126.113.161-0822
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0779
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpldlFCS3h4TDMycXNHQllib216WFRN@13.74.117.2:24701#%F0%9F%87%AE%F0%9F%87%AAIE-13.74.117.2-0460
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.111.208-0784
-trojan://telegram-id-privatevpns@13.38.166.180:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.166.180-0113
-vmess://ewogICAgImFkZCI6ICIxMzAuMTYyLjQ3LjEyMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjVmN2U5MzItZjczMC00YWQyLWI0MjUtNDA5NzdiOWRiMzMyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3pCTFBvdSIsCiAgICAicG9ydCI6IDY4NTQsCiAgICAicHMiOiAi8J+HqfCfh6pERS0xMzAuMTYyLjQ3LjEyMy04OTgzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

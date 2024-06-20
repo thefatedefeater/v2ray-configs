@@ -1,3 +1,7 @@
+ss://NTg4NmI5NzgtYjA4MC00NjEyLWI0MjAtNGQ4MjkwODA1NjFkOg==@104.21.36.87:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.36.87:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.162.200.181:8080#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8080
+ss://MDZkOTUwM2UtNmIxMi00YWJiLTkwY2QtN2ViMGNlNTgxODBmOg==@104.24.72.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.24.72.1:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:2375
 ss://JTc0JTY1bCU2NWclNzJhJTZkLSU2OWQtJTQxciU1NjJyJTYxeTo=@185.146.173.237:80#🔒 SS-TCP-NA 🇸🇪 SE-185.146.173.237:80
 ss://ZjdlNTE0ZWEtYmJhMS01YTg4LWJmZDktMDYxYmU1YjIxZWU3Og==@172.67.180.13:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.180.13:2083
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.225:8000#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8000
@@ -494,7 +498,3 @@ trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobs
 trojan://a3711469-9ab3-46b3-8164-7e3fd1971b78@172.104.184.110:443?security=tls&sni=Aka.ms&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-172.104.184.110:443
 trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:2083
 trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@20.2.117.242:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.117.242:443
-trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
-trojan://NISHIKUITAN222@47.236.164.215:443?sni=t222.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-47.236.164.215:443
-trojan://NISHIKUITAN222@129.151.205.193:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇪 SE-129.151.205.193:443
-trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118

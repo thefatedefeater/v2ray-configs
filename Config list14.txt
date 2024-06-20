@@ -1,3 +1,7 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.34.188:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.34.188:80
+vless://9bcdbf24-ec08-46c8-be63-2a9e1ce2cfc4@62.60.147.149:9480?type=tcp&host=telewebion.com&path=/live/varzesh&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.147.149:9480
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.185:443
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.19.189.243:443?security=tls&sni=aZadNEt-sEmEj.paGES.dEv&type=ws&host=AzAdnET-semEj.PaGes.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.189.243:443
 vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.154.243:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.154.243:1106
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.243.10:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.243.10:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.107:80
@@ -494,7 +498,3 @@ ss://aes-256-gcm:d4bcf71b-d966-457d-98ee-cd7c1260588b@de-full.privateip.net:8443
 ss://aes-256-gcm:6154d5bd-e89f-4720-b808-667d2894ff64@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:ff2324d1-2d6f-468a-8e95-d048a996716b@au-full.privateip.net:8443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:5b4c746a-f944-4f1e-89ad-8a6992b34dab@it-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:eb9c51f5-52ac-4315-b822-eec1a683572a@ua-full.privateip.net:8443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:77bce8a9-8d88-4dfd-bfc8-c082f38e20fa@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:09bf3c59-0ae4-40a0-a282-e35e820dca6e@sg-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:db9372ac-20e0-487f-8ea5-fb0aaac5ca48@sg2-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
