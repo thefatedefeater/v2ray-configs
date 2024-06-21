@@ -1,3 +1,5 @@
+vless://6e08a6cc-6c5c-4a10-b2b3-efbeede3ca0f@104.18.177.104:8880?security=none&type=ws&host=v2kingfree.6.5.4.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.104:8880
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.54.203:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.54.203:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.67:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.67:80
 vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@194.36.55.97:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.97:443
@@ -496,5 +498,3 @@ vless://1b4d8825-7d93-4fa0-9bf8-1575cec3b45f@162.159.130.233:2095?security=none&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.168.205:443?security=tls&sni=pPal03.YasSine-MaLvIn.WorkERs.deV&type=ws&host=PpAL03.yaSsinE-MALvIN.WoRKerS.DeV&path=%2FczGPfFbbavjeES3J%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.205:443
 vless://3b21b366-d1e1-4e64-ab26-56f5fb3696c0@185.146.173.58:80?security=none&type=ws&host=eqrg.ir.V2ray.ir.aryanc.ir.nedayevarzesh.ir.newsless.ir.lilmedia.ir.orkidetattoo.com.googleforex.com.列列男事的事列上赛男81.Tech.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:80
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.128.233:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.241:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.241:443
-vless://3cf9e6e1-dbf6-49b2-bb69-10c9035b508a@188.114.96.3:8443?security=tls&sni=ChanelcipcV2ray.Snappfoodd.site&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:8443
