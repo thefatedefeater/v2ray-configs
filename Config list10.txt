@@ -1,7 +1,3 @@
-vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:443?security=tls&sni=ffffrwewrg3.af3025eb2e.workers.dev&type=ws&host=ffffrwewrg3.af3025eb2e.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.216:443
-vless://f226dd38-d7b1-47c7-8051-37cd32473993@172.66.44.135:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
-vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.44.82:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&host=edtunnel-b6t.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.82:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.107:80
 vless://e2f155f4-d316-4ed2-9221-4c2e445d2b56@185.146.173.94:2052?security=none&type=ws&host=穆罕默德侯赛superspeed12.ff2ray.cfd.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:2052
 vless://698bdf81-9777-41cc-9cc1-81a2fc43bd08@104.21.59.165:8080?security=none&type=ws&host=cloudmehranmmdv1ray.v3rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.MahDi3Mm.onliNe.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8080
 vless://d0817f33-a5c4-495a-9dc7-e5fe6b1986b1@104.17.148.22:2087?security=tls&sni=as.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2087
@@ -498,3 +494,7 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.79:80?type=ws&host=kr1.1
 vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.135.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2096
 vless://29cf96e6-8008-4233-a883-4b5daeb72309@199.232.192.193:443?security=tls&sni=imgur.com&type=ws&host=That-Man-3.ir&path=%2F%40azadi_az_inja_migzare%3Fed%3D4096&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.192.193:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.195.5:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.195.5:80
+vless://cfb66de3-c40a-4501-ae9a-321b62c92019@185.146.173.187:80?security=none&type=ws&host=8.v2ray.debian.org.re.org.speedtest.net.xn--fhq0la447aac5504dea701axr1g.online.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.187:80
+vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@104.26.10.137:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&path=/websocket#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.10.137:443
+vless://4b2f62e8-82cf-4492-be0b-54bf4f661c83@172.67.132.41:80?security=none&type=ws&host=gb1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:80
+vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?security=tls&sni=ShAh-aGz.pAGes.DEV&type=ws&host=ShAH-AGZ.PAGES.dEV&path=%2FY1CCj67efFtmFGt5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.219.120:443
