@@ -1,5 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:2087?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.31:2087
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@8.218.3.198:2096?security=tls&sni=v600.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-8.218.3.198:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.30:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.30:443
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.58:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.222:2087
@@ -498,3 +496,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.119.132:443?security=tls&sni
 vless://bc406bfa-c6ea-4139-847f-3572e302b96f@104.19.64.153:2087?security=tls&sni=orders-onlinestore-dev01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.64.153:2087
 vless://a8940256-38a9-4fa6-afb8-a8304aa796d3@104.21.79.143:8443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.252.237:2096?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2096
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2052?type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.76.195:2052
+vless://d663fecc-1f02-4e9e-8157-c33cdb30da23@190.93.244.166:80?security=none&type=ws&host=sUB.veBoBE2961.WoRKeRs.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.166:80
