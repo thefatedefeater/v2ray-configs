@@ -1,3 +1,7 @@
+vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@104.26.13.54:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram@Freakconfig&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
+vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@129.154.50.159:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-129.154.50.159:443
+vless://7509f896-2115-4420-b487-501c9103bebd@156.251.180.176:21698?security=tls&sni=ccs.443888.xyz&type=ws&path=/vless?ed&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-156.251.180.176:21698
 vless://05ef858f-8b98-45f3-9619-76eadefd3827@193.151.139.36:13297?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.139.36:13297
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.244:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.244:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.106.156:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.106.156:443
@@ -494,7 +498,3 @@ vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.88:443?security=tls&sni=xin667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.88:443
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.14.19:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2083
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@167.68.11.38:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.38:443
-vless://b7666137-84cd-4731-a2b4-3d0d4091f100@188.114.99.99:8080?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirepro.fpsvpn.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.99.99:8080
-vless://292f56f7-9468-4fd2-8abc-811fd43583cd@188.114.97.141:2052?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:2052
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.30:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.124:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.124:443

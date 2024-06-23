@@ -1,3 +1,7 @@
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@47.88.15.127:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-47.88.15.127:443
+vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?security=tls&sni=bia-vip-programs.hsjsak.ir&type=ws&host=bia-vip-programs.hsjsak.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@104.21.40.63:443?security=tls&sni=jorum.toptechnonews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.103.7:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.103.7:443
 vless://2cda5e48-c55d-4d9f-bff1-5925fb08bdae@104.17.148.22:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-pOrya-academi.Academi.LoL.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&host=workerr.strife-dc2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.198:2082
 vless://8a9db4b2-7b1c-4dc0-8cf6-4d1ff921a4b4@31.47.42.199:59709?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.47.42.199:59709
@@ -494,7 +498,3 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.198.242:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.198.242:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.212:443?security=tls&sni=hk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.212:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.95:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.95:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.196.3:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.196.3:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.37:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.37:80
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?security=none&type=ws&host=crxre.ribiwa9933.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.95:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:2053

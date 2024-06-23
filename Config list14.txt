@@ -1,3 +1,7 @@
+vless://b7666137-84cd-4731-a2b4-3d0d4091f100@188.114.99.99:8080?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirepro.fpsvpn.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.99.99:8080
+vless://292f56f7-9468-4fd2-8abc-811fd43583cd@188.114.97.141:2052?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:2052
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.30:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.124:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.124:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.31.173:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.31.173:80
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
 vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@141.193.213.11:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.11:443
@@ -494,7 +498,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.233:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.90:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.90:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.141:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.161:2083
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@193.227.99.214:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.214:443
-vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?security=none&type=ws&host=ariogames.ir&path=/dash#🔒 VL-WS-NONE 🇮🇷 IR-5.145.115.206:2086
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.143.237:443?security=tls&sni=hk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:443
-vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@172.66.213.38:2096?security=tls&sni=mci.ircf.space&type=grpc&serviceName=(&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2096
