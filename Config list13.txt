@@ -1,3 +1,5 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.148:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.148:80
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@140.238.195.98:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇦🇺 AU-140.238.195.98:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.9:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.186:443
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@172.67.2.238:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:8880
@@ -496,5 +498,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.251:80?type=ws&host=kr1.
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.150.214:443?security=tls&sni=b458AB02.CAa-CHAnEL-worKEr-PAge-FReE-JHUihnujHpHJkL-NihgKjn.PAgeS.DeV&type=ws&host=b458AB02.CaA-ChANEl-WOrkEr-pAge-frEE-JhuIHNujHpHJKL-NIHgkjn.PAgEs.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.150.214:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.22.38.37:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.38.37:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:2053
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@20.90.163.76:2053?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-20.90.163.76:2053
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@167.68.11.38:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.38:443

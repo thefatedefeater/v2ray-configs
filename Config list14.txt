@@ -1,3 +1,5 @@
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@20.90.163.76:2053?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-20.90.163.76:2053
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@167.68.11.38:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.38:443
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@162.159.152.2:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.236:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.236:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.241:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.241:443
@@ -496,5 +498,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.98:80?type=ws&host=kr1.1
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.101.157:8443?security=tls&sni=hk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-8.210.101.157:8443
 vless://a0d40c77-6b7f-4687-83ce-879ebfb3bdab@188.165.24.213:4040?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-188.165.24.213:4040
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.13:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.13:80
-vless://9e15b32d-3a19-4169-aabd-fc7a513f1004@5.10.248.144:8085?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.10.248.144:8085
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.155.183:2083?security=tls&sni=jp667.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.155.183:2083

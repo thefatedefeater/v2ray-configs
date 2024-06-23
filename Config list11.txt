@@ -1,3 +1,5 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.237:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.237:80
+vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:443
 vless://b5b650ae-e4b2-41f7-ab76-a1d6b5177540@193.111.235.214:443?security=none&type=tcp&host=uptvs.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.111.235.214:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@194.36.55.97:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.97:443
 vless://9bb36300-163b-4f2b-d404-ea52ec7aa240@104.17.147.22:2086?security=none&type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2086
@@ -496,5 +498,3 @@ vless://cbcceb3e-63be-42b3-ab9c-c36563c73526@104.24.196.20:8080?type=ws&host=ws.
 vless://ea297a5f-af0a-4406-9185-03f8a4ed3b0a@103.229.81.118:443?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇳🇱 NL-103.229.81.118:443
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.91:443?security=tls&sni=zdy700.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.91:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.209.144:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.209.144:80
-vless://af5aa292-49d7-4e7a-be92-5318fc992547@185.146.173.52:80?security=none&type=ws&host=Fi2.vless.site.&path=/vless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.52:80

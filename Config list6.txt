@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.83:5004#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:5004
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.87:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8009
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:50002#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50002
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.201:5003#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.201:5003
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.67.221.240:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.221.240:443
@@ -496,5 +498,3 @@ trojan://NISHIKUITAN222@8.222.179.231:8443?security=tls&sni=t010.ylks.link&type=
 trojan://9b209d34-0f5b-307d-b8d1-a63c8cc47303@103.224.182.251:443?#🔒 TR-TCP-NA 🇺🇸 US-103.224.182.251:443
 trojan://NISHIKUITAN222@8.219.113.232:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.113.232:8443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.17.215.14:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.14:443
-trojan://NISHIKUITAN222@47.237.100.206:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.100.206:8443
-trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.253.95:26606?sni=sg01.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.253.95:26606

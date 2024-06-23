@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN222@8.219.139.13:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.139.13:8443
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&sni=tpmwh.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇷🇺 RU-31.172.67.242:43118
 trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.19:443?#🔒 TR-TCP-NA 🇺🇸 US-74.63.241.19:443
 trojan://NISHIKUITAN222@104.19.51.59:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.51.59:443
@@ -496,5 +498,3 @@ vless://c9a2add5-30fd-4c9f-bef0-ad1562981a2c@217.60.244.81:8443?security=reality
 vless://65fb592e-a3e7-41f8-bd2b-833b19fd521d@104.168.107.230:4876?security=reality&flow=xtls-rprx-vision&sni=10to8.com&type=tcp&fp=chrome&pbk=Owc44C8xT2Fa6Mg9d4yeBnSCWwc0gQCf48o1eTm6Shg&sid=a36b4f9bc64c25a7#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:4876
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@141.105.130.31:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-141.105.130.31:17552
 vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@188.166.11.22:443?security=reality&flow=xtls-rprx-vision&sni=booking.com&type=tcp&fp=chrome&pbk=keFsya_-stbGVSvWfpNjwB5SM2iFfwoQT0eToV88shM&sid=2a87bdca#🔒 VL-TCP-RLT 🇳🇱 NL-188.166.11.22:443
-vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.20.56:443
-vless://702c098f-a29a-415d-af86-cf72a437c200@51.103.208.250:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇨🇭 CH-51.103.208.250:443
