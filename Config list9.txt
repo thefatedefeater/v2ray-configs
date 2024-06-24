@@ -1,3 +1,4 @@
+vless://e31822be-c21b-4166-a90e-8821e02f4194@167.82.73.220:80?security=none&type=ws&host=pardazeshvpn.tg0.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.73.220:80
 vless://d6b3de64-f0f8-4113-b49f-2660f3c031fb@192.9.246.112:8443?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=/fylink.pages.dev/proxyip#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443
 vless://c3c6a939-53fc-456b-8936-3a20048fc187@5.35.100.133:34192?security=none&type=grpc#🔒 VL-GRPC-NONE 🇷🇺 RU-5.35.100.133:34192
 vless://347b41ac-a0ad-4b39-a335-ca42b624ba9c@89.221.224.166:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇮🇸 IS-89.221.224.166:443
@@ -497,4 +498,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.19:80?type=ws&host=kr1.1
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.152:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.152:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.117.133:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.117.133:80
 vless://d4aef180-4bc9-4751-9d1f-59d8a9fccdef@104.19.121.216:2052?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&path=%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.121.216:2052
-vless://e7e63e64-813e-4c4b-b51a-09e7f0347523@185.146.173.82:8880?security=none&type=ws&host=xn--VVVVV.VVVVV.Alfred--Config.A--66AlfredConfig.VV.AlfredConfig.AlfredConfig.AlfredConfig.VVVVV.VVVV.freeV2rayyY.Tehran-Gamee.ir.&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config@V2rayTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.82:8880

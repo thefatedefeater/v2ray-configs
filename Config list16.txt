@@ -1,3 +1,4 @@
+vless://6ad218ec-93e9-498a-8658-eadac3f116dd@104.21.69.44:2052?security=none&type=ws&host=cp.amoozeshaparatprograming.ir.&path=%2F%40Mehran-v2ray-%40LookiVpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2052
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.154.96.33:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.154.96.33:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.175:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.175:80
 vless://bbe9ef72-a93b-4ee6-918d-2d42b9836f9b@151.101.2.187:80?security=none&type=ws&host=aklisvpn.com&path=%2F%40aklisvpn%40aklisvpn%40aklisvpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.187:80
@@ -497,4 +498,3 @@ vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality
 vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?security=reality&sni=iranbax.spacex.com&type=grpc&serviceName=@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#🔒 VL-GRPC-RLT 🇩🇪 DE-64.190.63.111:443
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@91.231.182.183:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-91.231.182.183:17552
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.28:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.28:17552
-vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.35:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.35:17552

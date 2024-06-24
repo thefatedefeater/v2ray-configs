@@ -1,3 +1,4 @@
+trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
 trojan://1198e31f-06a5-485f-bb8a-76bf65c8ba1b@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-188.119.112.242:443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.185.80:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.185.80:8443
 trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@172.67.204.84:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
@@ -497,4 +498,3 @@ vless://df7735b8-3c87-4881-89b9-d49a7979f900@89.235.119.73:2087?security=none&ty
 vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@104.18.202.232:2083?security=tls&sni=mk.AntiV2ray.space&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.232.247.230:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-34.232.247.230:22222
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@160.79.104.51:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.51:443
-vless://e31822be-c21b-4166-a90e-8821e02f4194@167.82.73.220:80?security=none&type=ws&host=pardazeshvpn.tg0.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.73.220:80
