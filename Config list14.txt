@@ -1,4 +1,3 @@
-vless://6492ac02-c165-47d3-a441-0e58c54534a1@172.67.193.36:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:2095
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.155.22.176:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.155.22.176:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.55.112:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.55.112:80
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2096
@@ -498,3 +497,4 @@ vless://0f7ec369-3529-4e73-943b-19258212f1bb@172.64.32.100:443?security=tls&sni=
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@172.64.33.100:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.221.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.221.227:443
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.254.26:8443

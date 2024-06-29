@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#🔒 SS-TCP-NA 🇫🇮 FI-37.143.129.230:989
 ss://ZmI4NTM3NDEtODhlZi00YWEwLWJhMmYtOTk5ZjA0NTM1OTYwOg==@188.114.97.3:443#🔒 SS-TCP-NA 🏴‍☠️ NA-188.114.97.3:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:20002#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:20002
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:3389
@@ -498,3 +497,4 @@ trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.220.3:21526?security=tls&sni
 trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:35672?security=tls&sni=tw02.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:35672
 trojan://NISHIKUITAN222@8.219.93.5:8443?sni=t111.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-8.219.93.5:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.241:8443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.241:8443
+trojan://NISHIKUITAN222@47.236.164.215:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.164.215:8443
