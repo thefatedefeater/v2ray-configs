@@ -1,3 +1,4 @@
+ss://MzExOTIwOTMtYzNjOS00NDJlLWI5ZjMtNGI5YTdlZWMwNGQ2Og==@172.67.151.53:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.151.53:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6697
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.154:9101#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.154:9101
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#🔒 SS-TCP-NA 🇺🇦 UA-5.188.6.8:989
@@ -497,4 +498,3 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.14.85:2096?security=tls&sni
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.213.48:443
 trojan://NISHIKUITAN222@8.219.177.205:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.177.205:8443
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@172.67.204.84:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
-trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&host=fadaei.movieland.top&path=static34528#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:443
