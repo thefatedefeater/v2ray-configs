@@ -1,4 +1,3 @@
-vless://4d532b23-6e34-4fc7-96e0-654ac68d9ab7@104.21.20.148:443?security=tls&sni=darvish-2.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@174.136.206.95:57757?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-174.136.206.95:57757
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?security=none&type=ws&host=nl57.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:2082
 vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880
@@ -498,3 +497,4 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@131.186.33.118:443?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.0.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.0.135:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.250.6:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.250.6:80
 vless://92884c02-8b07-4519-b212-f917a14395c3@172.67.138.246:2096?security=tls&sni=selinc-------10-----selinc-----10----selinc.wxupwz.workers.dev&type=ws&host=selinc-------10-----selinc-----10----selinc.wxupwz.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.246:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.215:2087

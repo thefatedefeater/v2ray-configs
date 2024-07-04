@@ -1,4 +1,3 @@
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.254.233:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.254.233:443
 vless://99866d92-d746-423f-af86-51679d90f1e4@62.60.141.7:5016?security=none&type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.141.7:5016
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.71:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.167.160:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.167.160:80
@@ -498,3 +497,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.124.251:80?type=ws&host=us3.
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.85:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.85:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.105.152:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.118:443?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.118:443
+vless://48b94941-d602-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
