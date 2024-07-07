@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@15.188.227.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.227.109:22222
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.11.194:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.11.194:443
+trojan://saMgiangGt@172.64.80.1:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.64.80.1:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.13:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.13:443
 trojan://Ck0nkbbsur@172.64.150.8:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.150.8:2096
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.4:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.4:2087
 trojan://NISHIKUITAN222@172.93.188.140:443?sni=t000.ylks.link#🔒 TR-TCP-NA 🇭🇰 HK-172.93.188.140:443
@@ -494,7 +498,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.188:2096?security=tls&sn
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.10.194:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.10.194:443
 trojan://agrVcE92Pu@104.17.148.22:8443?security=tls&sni=J0in-Telegram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
 trojan://moist@8.210.203.7:2087?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-8.210.203.7:2087
-trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-43.153.80.208:443
-trojan://NISHIKUITAN222@47.236.17.193:8443?sni=t221.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-47.236.17.193:8443
-trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.222.133.18:31223?security=tls&sni=sgvip101.qlgq.fun&type=grpc&serviceName=sgvip101#🔒 TR-GRPC-TLS 🇸🇬 SG-8.222.133.18:31223
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.181:8443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.181:8443
