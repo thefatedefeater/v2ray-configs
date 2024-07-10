@@ -1,10 +1,3 @@
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.8.202:443
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
-trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
-trojan://auto@172.64.153.235:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.153.235:443
-trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.218.234.94:12249?security=tls&sni=hkvip101.qlgq.fun&type=grpc&serviceName=hkvip101#🔒 TR-GRPC-TLS 🇭🇰 HK-8.218.234.94:12249
-trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
-trojan://NISHIKUITAN222@192.9.177.204:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🇦🇺 AU-192.9.177.204:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.13:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.13:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.126:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.126:2087
 trojan://ZJU29smXwp@172.67.176.206:2053?sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.176.206:2053
@@ -498,3 +491,10 @@ trojan://ExPreSEToo582b993d16e522@104.21.68.174:8443?security=tls&sni=random.exp
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
 trojan://NISHIKUITAN222@47.236.102.102:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.102.102:8443
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@20.188.105.80:443?#🔒 TR-TCP-NA 🇸🇬 SG-20.188.105.80:443
+trojan://eqUjIxW5S5@188.114.97.6:443?sni=xstj.damane2111.ir#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.6:443
+trojan://XKFtA8jwLy@45.81.19.211:443?security=tls&sni=firan.dtgoldservices.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-45.81.19.211:443
+trojan://NISHIKUITAN222@8.219.51.211:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.51.211:8443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.10:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.10:443
+trojan://4CCF9A9AB80E9889198B02ECE7FA08DD@154.44.27.99:43005?security=tls&sni=j0080.ruixiangseo.xyz#🔒 TR-TCP-TLS 🇭🇰 HK-154.44.27.99:43005
+trojan://telegram-id-privatevpns@13.50.45.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.45.4:22222
+trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
