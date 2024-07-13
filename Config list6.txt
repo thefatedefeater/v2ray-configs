@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#🔒 SS-TCP-NA 🇺🇸 US-45.55.2.232:14293
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#🔒 SS-TCP-NA 🇸🇬 SG-159.65.129.128:18814
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@192.227.206.115:16899#🔒 SS-TCP-NA 🇺🇸 US-192.227.206.115:16899
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:5003
+ss://NjdhYzI5NjYtYzYzMy00ZmJlLTkyZGQtOGM2NjY4ODFjNmRlOg==@162.159.254.222:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.254.222:8080
+ss://MjI4Y2Y0NjAtYmI1Mi00ODEwLWI1MjMtZTRjMGY1MWY3MWRkOg==@172.67.161.215:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.161.215:2053
 ss://OWE0YmMxNWQtYTdkNC00MTgxLTk0ODUtNDA1NjI5YzM2ODk0Og==@104.21.46.85:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.46.85:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50212#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50212
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.181:5498#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:5498
@@ -492,9 +498,3 @@ trojan://NISHIKUITAN222@8.219.139.13:8443?security=tls&sni=t010.ylks.link&type=w
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.2:443
 trojan://NISHIKUITAN222@8.219.111.147:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.111.147:443
 trojan://E0002134H@104.21.109.230:443?security=tls&sni=6504e90a.xpxroject.pages.dev&type=ws&host=6504e90a.xpxroject.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.109.230:443
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@20.2.16.209:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.16.209:443
-trojan://telegram-id-privatevpns@52.49.248.184:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.49.248.184:22222
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.144.168:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.144.168:443
-trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
-trojan://GSYYULACz0@104.18.202.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
-trojan://NISHIKUITAN222@8.219.0.48:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.0.48:8443
