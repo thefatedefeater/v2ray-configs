@@ -1,8 +1,3 @@
-vless://c7af5083-b86c-4edd-8a97-01ddaba17a4f@176.96.137.139:2083?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#🔒 VL-TCP-RLT 🇩🇪 DE-176.96.137.139:2083
-vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=/details&fp=chrome&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
-vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@172.67.188.24:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🏴‍☠️ NA-172.67.188.24:443
-vless://b6616f96-a07c-42ad-8c1b-9847c391e156@45.76.91.49:80?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&pbk=gw2GBbdMdQ3W3j5FKsvehWOtmkVwWuM3LdOXlOz0SzM&sid=e05b1610#🔒 VL-GRPC-RLT 🇩🇪 DE-45.76.91.49:80
-vless://aa5979a2-1d99-453d-89fc-94e6be376caa@91.107.136.32:31237?security=reality&flow=xtls-rprx-vision&sni=colorlib.com&type=tcp&fp=chrome&pbk=h6N7wb31g8CHcpl27ju6DjobA7KYhWdGpJgSu4UHWzc&sid=60e4#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.136.32:31237
 vless://f61e2705-1fa7-4202-9724-d8a9e4d63917@132.226.172.147:62001?security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&type=tcp&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc#🔒 VL-TCP-RLT 🇰🇷 KR-132.226.172.147:62001
 vless://82746283-10bf-4b54-9e66-dce12369eb3a@104.21.92.121:2087?security=reality&sni=dash.cloudflare.com&type=http&fp=chrome&pbk=vmioa-B3FD4xiz7YlG35RL258KVugA7DBoi6YdToS1Q&sid=c3df53332630d0c4#🔒 VL-HTTP-RLT 🏴‍☠️ NA-104.21.92.121:2087
 vless://87a61f18-6e2f-4712-9f88-b0fc4cc6af56@78.47.139.4:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=qsvf6dt1JiAxPajbOEnSvfIajg6MUWES7EcWhcigel0&sid=4b29245c&alpn=h2#🔒 VL-TCP-RLT 🇩🇪 DE-78.47.139.4:443
@@ -498,3 +493,8 @@ vmess://ewogICAgImFkZCI6ICIyMy4yMjcuMzguNiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0Ijog
 #profile-title: base64:VFZDIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBWMnJheUNvbGxlY3RvckRvbmF0ZSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMifQ==
+vmess://eyJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ1czVQaEF4Nnhzai5memJxZnJzZS54eXoiLCJpZCI6IjNjNTA0NmI0LTFhOWMtNDI3Yy04YTU1LWUzNTU4NDZhOWU0YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvdmlkZW9cL2Y4WktUR2FHb0NcLyIsInBvcnQiOiI4MDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQG1mdGl6aSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMifQ==
