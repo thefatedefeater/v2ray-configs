@@ -1,5 +1,3 @@
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.3:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.3:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.52:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.52:80
 vless://f6238fcc-96b3-44a6-bdda-1a8d715e1f86@172.67.190.236:80?security=none&type=ws&host=SHHPROXY-V2ray.斯涅過濾器69.website#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.236:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.116.70:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.230.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.230.82:80
@@ -498,3 +496,5 @@ vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.83:2083?security=tls&sni=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.181.116:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.181.116:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.2.88:443?security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.88:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.190.62:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.190.62:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.76.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.76.254:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.195.110.77:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇲 AM-91.195.110.77:443
