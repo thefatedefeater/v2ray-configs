@@ -1,6 +1,3 @@
-trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.11-0774
-trojan://ypDt8RkT7J@89.187.189.88:43118?security=tls&sni=tpmrr.phooeyunfold.com#%F0%9F%87%A8%F0%9F%87%BFCZ-89.187.189.88-0779
-trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.131-0776
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0760
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-0756
 ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHIlMkZDZmg3VktVQzB6TGpFeE1pNHhNamd1TVRJNExUQTNNREklM0QmcHJvdG9wYXJhbT0=
@@ -498,3 +495,6 @@ hy2://
         section {
             display: block;
             padding: 0;
+            margin: 0;
+        }
+        .container {
