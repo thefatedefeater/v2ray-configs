@@ -1,3 +1,10 @@
+            width: 100%;
+        }
+        .status-reason {
+            font-size: 200%;
+            display: block;
+            color: #CCCCCC;
+        }
         .reason-text {
             margin: 20px 0;
             font-size: 16px;
@@ -61,7 +68,7 @@
                         This Account has been suspended.
                     </div>
                     <div class="reason-text">
-                        <a href="/cdn-cgi/l/email-protection#314654535c5042455443715c43415e5e48501f455e41" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
+                        <a href="/cdn-cgi/l/email-protection#dea9bbbcb3bfadaabbac9eb3acaeb1b1a7bff0aab1ae" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
                     </div>
                 </div>
             </div>
