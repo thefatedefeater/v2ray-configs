@@ -237,7 +237,7 @@ hy2://
                         This Account has been suspended.
                     </div>
                     <div class="reason-text">
-                        <a href="/cdn-cgi/l/email-protection#5a2d3f38373b292e3f281a37282a3535233b742e352a" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
+                        <a href="/cdn-cgi/l/email-protection#81f6e4e3ece0f2f5e4f3c1ecf3f1eeeef8e0aff5eef1" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
                     </div>
                 </div>
             </div>
