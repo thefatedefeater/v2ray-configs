@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.93:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.93:8091
+ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.16.61.8:2052#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.61.8:2052
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:8000#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:8000
 ss://NTFiYWVkYTgtMTI4OC00NThhLWI1YWUtYjhiMDgwYjkzN2I2Og==@104.27.0.241:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.27.0.241:8880
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20182#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20182
@@ -496,5 +498,3 @@ trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobs
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@176.126.113.161:443?#🔒 TR-TCP-NA 🇳🇱 NL-176.126.113.161:443
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-169.150.206.186:43118
 trojan://auto@104.18.1.89:443?security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.1.89:443
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.64.146.48:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.48:443
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.12.87:443
