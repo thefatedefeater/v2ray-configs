@@ -1,3 +1,4 @@
+ss://YzNjMjBkYjctZDMyYi00NTRhLTk4NDMtZWMyMmQwNjRhODQyOg==@104.21.41.131:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.41.131:443
 ss://ODViOTRmMjAtZTU2My00OThiLTlkNGItYTc1NDM4YTUxMTAxOg==@104.18.0.89:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.0.89:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:806
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8119#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8119
@@ -497,4 +498,3 @@ trojan://kP90Yjp90S@212.183.88.40:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.50.252:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.217.50.252:2087
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@23.99.97.169:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.97.169:443
 trojan://telegram-id-directvpn@18.169.87.161:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.87.161:22222
-trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-172.67.198.177:443
