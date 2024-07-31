@@ -1,3 +1,4 @@
+trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.19.64:443
 trojan://NISHIKUITAN222@8.219.113.232:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.113.232:8443
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?sni=sherasheba.com&type=ws&host=sherasheba.com&path=6b777a91#🔒 TR-WS-NA 🏴‍☠️ NA-104.19.171.3:443
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.211.21.171:51789?security=tls&sni=fkvip102.qlgq.fun&type=grpc&serviceName=fkvip102#🔒 TR-GRPC-TLS 🇩🇪 DE-8.211.21.171:51789
@@ -497,4 +498,3 @@ vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@143.244.149.37:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-143.244.149.37:443
 vless://82746283-10bf-4b54-9e66-dce12369eb3a@104.21.92.121:2087?security=reality&sni=dash.cloudflare.com&type=http&fp=chrome&pbk=vmioa-B3FD4xiz7YlG35RL258KVugA7DBoi6YdToS1Q&sid=c3df53332630d0c4#🔒 VL-HTTP-RLT 🏴‍☠️ NA-104.21.92.121:2087
-vless://7b4e5a62-9b15-42d1-9ed9-ce76d10f204c@173.232.195.146:119?security=reality&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&type=tcp&fp=firefox&pbk=juQMnZSKAoTC6qNi1Org3wePmoOjYWk1BAZtbglFc30&sid=2cda3e91931aa34d#🔒 VL-TCP-RLT 🇵🇱 PL-173.232.195.146:119

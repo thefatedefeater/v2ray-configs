@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
 ss://ZjY5ZDQ1OTQtMmQxOC00MjY2LWFiYzQtZWViOWM1NjA0Y2E1Og==@104.17.135.153:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.135.153:443
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:6379
 ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@104.16.68.38:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.68.38:2053
@@ -497,4 +498,3 @@ trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com&type=tcp#�
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.3.198:2096?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.3.198:2096
 trojan://dba20dcb635e430fa4d3bfc303a149d2@162.159.129.17:80?type=ws&host=https.fa.wikipedia.org.xn--m39h.www.cdn.speedtest.net.e1.google.ru.zula.ir.1.1.1.xn--6bi8548mabeaana921b9b830dbbb0nn92a.tls.xn--mn8haaaaa252bbabbbb.xn--mn8haaaaa252bbabbbb.fake.xn--j9h1028mqmaoytii00aha21hfjrd.aparat.com.zula.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.129.17:80
 trojan://moist@154.197.121.127:443?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-NA 🇸🇨 SC-154.197.121.127:443
-trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.19.64:443
