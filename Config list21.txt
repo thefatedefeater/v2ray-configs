@@ -1,3 +1,4 @@
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443?security=tls&sni=polo.gdorri.info&type=ws&host=polo.gdorri.info&path=/paradise#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
 vless://94b3cbba-e6ac-485a-9481-976a0916eab9@172.67.180.5:443?security=tls&sni=ESetSECURitYLIcENSe.urNUvsg.wORKerS.DEv&type=ws&host=esETsecUrItyLIceNSe.urnUVsg.wOrkerS.DeV&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.5:443
 vless://a2279379-ea17-4f35-aea3-f2e0e7007297@198.41.192.162:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com.&path=25750%2FDAILYCONFIGS%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.192.162:80
 vless://9500134e-7c06-49b8-97ab-8cc43828f0f3@104.24.140.135:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.140.135:80
@@ -497,4 +498,3 @@ vless://e34be9a9-90c3-4e77-b1de-c5fce94535ba@108.157.194.116:443?security=tls&sn
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.148.212:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.148.212:80
 vless://c1ba9a09-50a8-4656-959b-cd124deca7de@172.64.108.121:443?security=tls&sni=ru2.vless.site&type=ws&host=ru2.vless.site&path=%2Fvless&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.108.121:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.66:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.66:80
-vless://58e6bea1-9928-5974-8880-55b11fd48f86@162.159.60.173:80?security=none&type=ws&host=azadiiivpn.se2.vless.sitespeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.60.173:80

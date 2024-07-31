@@ -1,3 +1,4 @@
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.243:443
 vless://69ed24f6-8161-45db-9224-c51293938a5c@141.101.113.189:443?security=tls&sni=superservos.supportshoporg.com.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-141.101.113.189:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.33.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.33.73:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.164.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.164.126:80
@@ -497,4 +498,3 @@ vless://d1137f1a-7925-4d49-a44c-888bc401e0c4@45.151.62.156:8443?security=reality
 vless://33732651-0c11-4abf-8c0c-e3744ec88230@5.161.153.141:443?security=reality&sni=gsmarena.com&type=grpc&serviceName=%40Everyday_VPN&fp=chrome&pbk=vtUa7jdhymLNbzrhq3V9Mk0CxWZtXrBGNc4elOd0wXc&sid=079d8b6e#🔒 VL-GRPC-RLT 🇺🇸 US-5.161.153.141:443
 vless://a59c63e1-8179-4d9f-b357-dd5412068a19@24.199.94.226:12345?security=reality&sni=refersion.com&type=http&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🔒 VL-HTTP-RLT 🇺🇸 US-24.199.94.226:12345
 vless://5e30b4cd-b8ac-41b1-930f-886a61670a45@88.135.46.225:443?security=reality&flow=xtls-rprx-vision&sni=www.pinterest.com&type=tcp&fp=chrome&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324&alpn=http/1.1#🔒 VL-TCP-RLT 🇮🇷 IR-88.135.46.225:443
-vless://38ab290d-2b85-41c8-b938-26118f789c1b@159.223.98.72:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-159.223.98.72:443
