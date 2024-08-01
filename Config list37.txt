@@ -1,9 +1,3 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.235:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.237.131:2083?security=tls&sni=jpe.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-8.222.237.131:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.216.117:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.117:443
-vless://33b3cbba-e6ac-485a-9481-976a2945eab9@172.67.185.171:443?security=tls&sni=FlaT-nighT-F3F9.JiWOXO6991.worKers.DEV&type=ws&host=flAT-NighT-f3f9.jiwoXo6991.WOrkErs.DEV&path=%2F4LmAmnKmzDYCprhH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.171:443
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.3.52:2096?security=tls&sni=en01.simansanat.ir&type=ws&host=en01.simansanat.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.52:2096
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.14:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.14:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.196.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.127:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.236.17:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.236.17:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.160.31:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.160.31:443
@@ -498,3 +492,9 @@ vless://cf2d7f24-800c-4c57-bacd-1613d7a61e32@104.21.59.104:443?security=tls&sni=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.17.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.17.54:80
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.45.3:443?security=tls&sni=ab-841-vpn.pages.dev&type=ws&host=ab-841-vpn.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.3:443
 vless://d3484b27-0cdf-469b-953e-1066d4e488f8@172.67.157.96:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.96:443
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.143:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.23.133.175:443?security=tls&sni=Bpb.sanMU.US.kg&type=ws&host=bpB.SAnMu.uS.kg&path=%2F1GVXEAyZc5REYjL7%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.133.175:443
+vless://7b568d25-ea44-4d41-b07f-0beb4095287f@104.21.85.204:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:8880
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.229.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.229.238:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.130.98:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.98:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.37:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.37:80
