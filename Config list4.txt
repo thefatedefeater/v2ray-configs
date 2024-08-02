@@ -1,3 +1,4 @@
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.118:2096
 trojan://NISHIKUITAN222@8.219.49.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.49.65:8443
 trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@104.237.153.228:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.237.153.228:443
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
@@ -497,4 +498,3 @@ vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@104.26.15.16:8443?security=tls&sni=
 vless://e8ad197d-2766-41ed-ad70-ba111abeebb3@45.131.211.80:8080?security=none&type=ws&host=vigiLanTe823467DHasdfh3D.義務警員.online.&path=@daily_configs-@daily_configs-@daily_configs-@daily_configs#🔒 VL-WS-NONE 🇳🇱 NL-45.131.211.80:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.101.154.245:47001?security=tls&sni=vs.ylks.xyz&type=ws&path=/3b2dg5zv2kftsfko?ed#🔒 VL-WS-TLS 🇯🇵 JP-158.101.154.245:47001
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.2.79:443
-vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?security=tls&sni=ch.amshviip.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.32:2096
