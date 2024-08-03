@@ -1,3 +1,4 @@
+vless://a626e5fe-39a2-4fb9-b55e-4436cc737a89@104.21.13.125:2096?security=tls&sni=kr1.prim-e-cloud.com&type=grpc&serviceName=2096vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.125:2096
 vless://ca55bbf2-0c13-4b63-9dcd-047c38551750@104.21.75.237:2087?security=tls&sni=erfan.erfan90.oNflaShdriVe.app.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.75.237:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.200:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.200:80
 vless://a0d40c77-6b7f-4687-83ce-879ebfb3bdab@188.165.24.213:4040?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-188.165.24.213:4040
@@ -497,4 +498,3 @@ vless://Parsashonam-24@104.24.185.137:8080?encryption=none&host=myket.xn--ir-6g5
 vless://Parsashonam-24@104.21.19.124:8880?encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣4️⃣
 vless://Parsashonam-22@190.93.247.247:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2Firancell.app&security=tls&sni=mail.offch.blog.&type=ws#رایگان | VLESS | @Parsashonam | CR🇨🇷 | 0️⃣5️⃣
 vless://Parsashonam-22@104.24.185.137:8080?encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣6️⃣
-vless://Parsashonam-22@104.21.19.124:8880?encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣7️⃣
