@@ -1,3 +1,9 @@
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v10.New6server.ir&sni=v10.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 227
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v09.New6server.ir&sni=v09.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 228
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v08.New6server.ir&sni=v08.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 229
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v07.New6server.ir&sni=v07.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 230
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v06.New6server.ir&sni=v06.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 231
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v05.New6server.ir&sni=v05.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 232
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v04.New6server.ir&sni=v04.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 233
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v03.New6server.ir&sni=v02.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 234
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=/&host=v02.New6server.ir&sni=v02.New6server.ir&fp=chrome#🇺🇸US | 🟢 | vless | @DailyV2RY | 235
@@ -492,9 +498,3 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@172.234.222.138:443#🔒 S
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.181:3389#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:3389
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7001
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3306
-ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@172.67.198.153:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.198.153:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjEzYzQxMi1mNTQwLTNlN2QtOGE1Zi1lOTRhZjRjYjVmNGI=@154.16.55.112:61006#🔒 SS-TCP-NA 🇯🇵 JP-154.16.55.112:61006
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.130:5004#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.130:5004
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:9101
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ampIaGhXeXlJUUFsMVdIV2t6ZHhs@176.123.1.241:8576#🔒 SS-TCP-NA 🇲🇩 MD-176.123.1.241:8576
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.93.118:8080#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.118:8080
