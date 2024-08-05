@@ -1,3 +1,5 @@
+vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@172.67.156.210:443?security=tls&sni=knocked.aurorainiceland.com&type=ws&host=knocked.aurorainiceland.com&path=%2Fnimws%3Fed%3D%40MARAMBASHI%2C%40MARAMBASHI%2C%40MARAMBASHI&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.210:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?security=tls&sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv&type=ws&host=80aCf9dA.eHsAn-PANel.pAGeS.deV&path=%2FYg2rZ1APOvtkjPOv%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.83:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.62:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.62:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@216.24.57.16:443?security=tls&sni=vt.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.16:443
@@ -496,5 +498,3 @@ vless://f4845e97-dd8f-40b4-ab7c-ca69cbae2119@94.182.129.69:56189?security=none&t
 vless://042c7251-327e-4900-a937-d6d1be58c92d@104.25.108.110:443?security=tls&sni=uPloAdsErvErfinlaNdV2rayfiNonE.FzSAV.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.108.110:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.253.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.253.126:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.128:2096?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.128:2096
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?security=tls&sni=bnnm.azurewebsites.net&type=ws&host=bnnm.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇰🇷 KR-52.231.38.95:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.64.53:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.64.53:80

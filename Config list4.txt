@@ -1,3 +1,5 @@
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
+trojan://telegram-id-privatevpns@15.236.192.139:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.192.139:22222
 trojan://Libertas*One*E*@104.21.67.195:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.67.195:443
 trojan://telegram-id-privatevpns@13.48.121.226:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.121.226:22222
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
@@ -496,5 +498,3 @@ vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.226:2083?security=tls&sni
 vless://90c392b7-f567-47d4-b584-dc1caf5bfb28@104.21.11.229:2083?security=tls&sni=ufo1.bestgameir.ir&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.229:2083
 vless://d4a843d4-3c96-4483-ae12-72706da66d30@45.131.4.143:8080?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.143:8080
 vless://f110e62b-c579-de82-d5b8-61c53cde88a5@81.12.92.132:16701?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.132:16701
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.97.46:443?path=@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.97.46:443
