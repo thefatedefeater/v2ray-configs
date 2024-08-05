@@ -1,3 +1,5 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.172:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.185:8443
 vless://5bcc242f-4821-4a34-8da3-d53b8794b468@80.249.113.11:20038?security=none&type=tcp&host=Webmail.yjc.ir&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-80.249.113.11:20038
 vless://9bf9828f-faad-4259-842a-87a6e9da647e@172.67.173.11:443?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&path=@TLS_v2ray,@AstroVPN_official,@TLS_v2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.11:443
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@92.223.84.84:443?security=tls&sni=gcore.com&type=ws&host=raimonchannel.com&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-92.223.84.84:443
@@ -496,5 +498,3 @@ vless://91d65dba-474f-4b6a-a236-aa97f65a460e@167.71.198.154:443?security=tls&sni
 vless://5ae6716f-6df1-44e3-9b6f-bf79ceafd650@108.157.194.106:443?security=tls&sni=joinbedevmessorg.xn--54qv00ez5ar77g.co&type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.#🔒 VL-WS-TLS 🇺🇸 US-108.157.194.106:443
 vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.44.189:443?security=tls&sni=pardazesh25.pages.dev&type=ws&host=pardazesh25.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.189:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.88:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.123.225:8443?security=tls&sni=kv.ylks.xyz&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-152.70.123.225:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.55:443?security=tls&sni=hv.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.55:443

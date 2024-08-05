@@ -1,3 +1,5 @@
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.205.85:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.205.85:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.79:2053?security=tls&sni=JoINMaHdIServEr-28r.pAgEs.dEv&type=ws&host=JOiNMAhdiServER-28R.PaGEs.DEv&path=%2Fzj2ETt6p9acPdq8P%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.79:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.118.143:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.118.143:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.151.110:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.151.110:80
 vless://e8d8328d-4c66-4b96-9a4e-e005f4397c75@172.67.147.79:443?security=tls&sni=cloud.kiava.fun&type=ws&host=cloud.kiava.fun&path=/&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.79:443
@@ -496,5 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.20.122:80?security=none&type
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.196.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.196.20:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.167:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.167:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.51.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.51.9:80
-vless://17ca4ed8-d851-493c-be87-fd6650278504@109.94.165.31:11000?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-109.94.165.31:11000
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.7.216:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-150.230.7.216:443

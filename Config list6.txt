@@ -1,3 +1,5 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.123.225:8443?security=tls&sni=kv.ylks.xyz&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-152.70.123.225:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.55:443?security=tls&sni=hv.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.55:443
 vless://33b3cbba-e6ac-485a-9481-976a2945eab9@172.67.185.171:80?type=ws&host=FLat-NIGHt-f3f9.JIwOxo6991.WORkERS.DEv&path=%2FHAV2PTK0m5KMMoRL%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.185.171:80
 vless://61fbc4d5-bf71-44c3-bb37-a2c8c345aa37@104.18.23.19:80?security=none&type=ws&host=www.speedtest.net.1.debian.org.ftp.debian.org.speedtest.net.xn--48jyb6ec1ad.bookmarkingonline.info.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.23.19:80
 vless://1fbf7849-17a0-47bf-aa51-3c9c8372cc00@104.22.30.97:8880?security=none&type=ws&host=15.v.v2.www.speedtest.net.g.debian.org.bklink.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.30.97:8880
@@ -496,5 +498,3 @@ vless://0348038c-de3b-5790-8756-402479efb5c7@104.21.31.170:2053?security=tls&sni
 vless://0aa0e24e-3d32-4807-9be8-8f96da18ccaf@66.235.200.51:2095?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.51:2095
 vless://158a2a18-ba82-4208-af52-3bf650c94036@162.159.128.233:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:2095
 vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@185.143.233.120:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:80
-vless://a74068d7-7aee-4cc9-a0a8-954df6ceafd0@104.21.70.25:2082?security=none&type=ws&host=sg1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.25:2082
-vless://ac4a922d-86fa-44e6-8825-238164b693f3@190.93.247.194:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.&path=/@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.194:8880
