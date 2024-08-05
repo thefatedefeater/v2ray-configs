@@ -1,3 +1,7 @@
+vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
+vless://7d9eb9c1-52f0-4c0f-ba58-27be0aec0a27@172.67.162.149:2053?security=tls&sni=rafav2bot.rafalion.ir&type=ws&path=@RaFaV2ray&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.149:2053
+vless://73b78186-bfdd-4974-a40e-10e2a24fa813@94.182.131.156:2083?security=none&type=tcp&host=google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.131.156:2083
+vless://376e5993-9afa-4bac-9660-edf39ea29996@162.159.153.4:8880?security=none&type=ws&host=kanal-ma-falcunargo.43f6252145.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.4:8880
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@104.21.3.52:2053?security=tls&sni=wwWsPeEdTeStNeTwHiTeBeRiNsIsToMd6625996V04.DoOdGeChAn.Ir.&type=ws&host=wwWsPeEdTeStNeTwHiTeBeRiNsIsToMd6625996V04.DoOdGeChAn.Ir.&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.52:2053
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@104.21.33.85:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.33.85:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.146:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.146:443
@@ -494,7 +498,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.247.16:443?security=tls&sni
 vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@172.67.184.1:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.184.1:2083
 vless://e3414cff-d076-4e7a-9518-c5792f9a87ac@45.12.31.238:443?security=tls&sni=connectingno.technewspaper.store&type=ws&host=connectingno.technewspaper.store&path=%2FFWwdxcwcwwQwdcwqwdd333qqqqqqqwdddddd&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.238:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.156.64:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.64:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.29.202:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.29.202:80
-vless://38928290-00af-4255-9006-57df913e1f95@185.53.142.134:80?security=none&type=ws&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🇮🇷 IR-185.53.142.134:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.56.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.56.67:80
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.141:18571?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.141:18571
