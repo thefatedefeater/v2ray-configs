@@ -1,3 +1,4 @@
+vless://c0615218-5881-49d3-a008-03ca8359dc68@162.159.152.17:80?security=none&type=ws&host=ipv4dali.xwdil.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.17:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.77.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.77.81:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.27.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.27.48:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.17.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.17.185:80
@@ -497,4 +498,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.197.107:443?security=tls&sni
 vless://21abe279-024a-4044-a02e-e396d2b1f19a@104.21.8.139:2096?security=tls&sni=cdnnewmetod.teslasolhtjet.ir&type=grpc&serviceName=2096vless&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.8.139:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.22:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.21.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.129:80
-vless://3ffec0f7-8837-4568-a039-d124abfee84f@14.102.229.229:2053?security=tls&sni=ajghg.f-vipo.ir&type=ws&host=ajghg.f-vipo.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-14.102.229.229:2053

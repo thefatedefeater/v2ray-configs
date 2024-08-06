@@ -1,3 +1,4 @@
+vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?security=tls&sni=france.alighan.ir&type=ws&host=france.alighan.ir&path=/vbd&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-85.9.98.114:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.92.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.92.244:443
 vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@172.234.222.143:443?security=tls&sni=server1.popprime.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.234.222.143:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.38.122:2086?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.38.122:2086
@@ -497,4 +498,3 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.9:443?security=tls&sni=zd
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.199:80
 vless://d211cb27-c37c-455b-c4a4-78cefdfde755@172.67.180.67:443?security=tls&sni=blacksabbath.nabise4347.workers.dev&type=ws&host=blacksabbath.nabise4347.workers.dev&path=/downloader/35363&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.67:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.3:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.74.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.74.37:80

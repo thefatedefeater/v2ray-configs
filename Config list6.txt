@@ -1,3 +1,4 @@
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.74.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.74.37:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.38.122:443?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.38.122:443
 vless://c0615218-5881-49d3-a008-03ca8359dc68@104.18.14.19:80?security=none&type=ws&host=thexw4.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.245:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.245:443
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.156.46:80?security=none&type
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?security=tls&sni=pardazeshvpn-tg24.pages.dev&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2FNETMelliAnti%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.146.118:8443
 vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.246.225:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.246.225:8880
 vless://b7d36947-6006-4fe0-ba3c-ba2d6e60f7da@89.47.200.119:2082?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.200.119:2082
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.227:80

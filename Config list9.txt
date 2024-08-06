@@ -1,3 +1,4 @@
+vless://a679017e-2cb8-425c-a336-20b720152bdf@104.21.95.103:2087?security=tls&sni=blog1.pictab.ir&type=ws&path=%2Fws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.103:2087
 vless://cc71b824-e60e-42a8-8bdd-76a059dbe880@172.67.133.24:2083?security=tls&sni=cdnnode5mahz.cfd-cr.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.24:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.18.36:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.36:80
 vless://4e806b5e-1063-480b-8a36-ef73c06c6208@46.245.65.84:23007?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.65.84:23007
@@ -497,4 +498,3 @@ vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.205.0.240:8080?security=none&typ
 vless://eb590590-4714-4393-8611-605318f12342@104.22.13.192:80?security=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.13.192:80
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@198.41.201.125:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.201.125:80
 vless://bc827d67-f095-4c65-9327-33039decb888@172.67.151.162:443?security=tls&sni=s5c.giga-downloader.com&type=ws&host=s5c.giga-downloader.com&path=%2Fws5%2F8080&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.162:443
-vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.44.238:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.238:443
